@@ -103,7 +103,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
   <a href="{{site.url}}/palenciajm"><img src="{{site.url}}/assets/imgs/People/palenciajm.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/palenciajm"><b> José María Palencia </b></a>
   </section>
   <section class="card">
-  <a href="{{site.url}}/pamuks"><img src="{{site.url}}/assets/imgs/People/pamuks.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/pamuks"><b>Sefa Pamuk </b></a>
+  <a href="{{site.url}}/pamuks"><img src="{{site.url}}/assets/imgs/People/pamuks.jpg" style="width:150px;height:215px;"></a><br><a href="{{site.url}}/pamuks"><b>Sefa Pamuk </b></a>
   </section>
   <section class="card">
   <a href="{{site.url}}/pereza"><img src="{{site.url}}/assets/imgs/People/pereza.jpg" style="width:170px;height:215px;"></a><br><a href="{{site.url}}/pereza"><b>Abram Pérez Herrero</b></a>

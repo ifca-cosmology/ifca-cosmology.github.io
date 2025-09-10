@@ -4,7 +4,7 @@ layout: default
 
 
 
-<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/pamuks.jpg" style="width:224px;height:300px;"> <a href="https://github.com/Sefa76">Personal website</a> <br> mail: pamuk(at)ifca.unican.es <br> Office: 124</p>
+<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/pamuks.jpg" style="width:200px;height:300px;"> <a href="https://github.com/Sefa76">Personal website</a> <br> mail: pamuk(at)ifca.unican.es <br> Office: 124</p>
 
 # Sefa Pamuk
 
