@@ -4,7 +4,7 @@ layout: default
 
 
 
-<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/name.jpg" style="width:224px;height:300px;"> <a href="https://">Personal website</a> <br> mail: martinez(at)ifca.unican.es <br> Office: 102</p>
+<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/martineze.jpg" style="width:224px;height:300px;"> <a href="https://">Personal website</a> <br> mail: martinez(at)ifca.unican.es <br> Office: 102</p>
 
 # Enrique Martínez González
 Research Professor at the Spanish National Research Council (CSIC) and the founding head of the Observational Cosmology and Instrumentation group at the Institute of Physics of Cantabria (IFCA, CSIC-UC)). He graduated in Physics from the University of Cantabria in 1982 and carried out his PhD studies at NORDITA (Copenhagen) between 1983 and 1986 under the supervision of Prof. Bernard J.T. Jones. He then obtained a postdoctoral contract from the Ministry of Education at the University of Cantabria 1986-1988, followed by an Assistant Professorship at the same university from 1988 to 1990. In 1990, he joined CSIC as a Research Scientist (Científico Titular), was promoted to Senior Research Scientist (Investigador Científico) in 2003, and to his current position of Research Professor in 2007. His research focuses in Cosmology, specifically the Cosmic Microwave Background (CMB) and the Large Scale Structure (LSS) of the Universe. His work includes the development of CMB instrumentation and experiments, as well as data analysis and theoretical implications. His scientific output exceeds 400 peer-reviewed publications, with over 90,000 citations.

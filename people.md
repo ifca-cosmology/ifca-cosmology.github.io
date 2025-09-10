@@ -37,7 +37,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
   <a href="{{site.url}}/kavanaghbj"><img src="{{site.url}}/assets/imgs/People/kavanaghbj.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/kavanaghbj"><b>Bradley J. Kavanagh</b><br><br></a>
   </section>
   <section class="card">
-  <a href="{{site.url}}/martineze"><img src="{{site.url}}/assets/imgs/People/martineze.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/martineze"><b>Enrique Martinez-González</b></a>
+  <a href="{{site.url}}/martineze"><img src="{{site.url}}/assets/imgs/People/martineze.jpg" style="width:170px;height:215px;"></a><br><a href="{{site.url}}/martineze"><b>Enrique Martinez-González</b></a>
   </section>
   <section class="card">
   <a href="{{site.url}}/remazeillesm"><img src="{{site.url}}/assets/imgs/People/remazeillesm.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/remazeillesm"><b>Mathieu Remazeilles</b></a>
