@@ -4,7 +4,7 @@ layout: default
 
 
 
-<p style="float: left; width: 50%; margin:40px"><img src="{{site.url}}/assets/imgs/People/dominguezh.jpg" style="width:400px;height:300px;"> <a href="https://calderilla15.wixsite.com/helenadominguez">Personal website</a> <br> mail: helenad(at)ifca.unican.es <br> Office: </p>
+<p style="float: left; width: 50%; margin:40px"><img src="{{site.url}}/assets/imgs/People/dominguezh.jpg" style="width:400px;height:300px;"> <a href="https://calderilla15.wixsite.com/helenadominguez">Personal website</a> <br> mail: helenad(at)ifca.unican.es <br> Office: 113</p>
 
 # Helena Domínguez Sánchez
 
