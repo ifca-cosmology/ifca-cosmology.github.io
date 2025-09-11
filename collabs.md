@@ -49,28 +49,14 @@ The mission is the second F-class mission selected by ESA and the first ESA miss
 - [Abram Pérez]({{site.url}}/pereza) 
 - [Juan Villafañe]({{site.url}}/villafanej)
 
+
 ### BINGO
 
-<p style="float: left; minmax(350px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/bingo.png" style="width:310px;height:300px;"></p>
+<p style="float: left; minmax(350px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/bingo-radio-telescope.jpg" style="width:310px;height:300px;"></p>
 
-HERE THERE'S SOME BLURB FOR BINGO
+BINGO (Baryon Acoustic Oscillations from Integrated Neutral Gas Observations) is a 40-meter radio telescope, currently under construction in the North East of Brazil, designed to map the large-scale distribution of neutral hydrogen in the Universe by observing the redshifted 21-cm line emission over the frequency range 980–1260 MHz, corresponding to a redshift interval of 0.127 < z < 0.449. Its primary science goal is to detect baryon acoustic oscillations (BAOs) from 21-cm line intensity mapping, thereby providing precise measurement of cosmological expansion of the Universe in a relatively underexplored redshift regime. BINGO will survey around 6,000 square degrees of sky with an angular resolution of ~40 arcminutes.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+The telescope design is based on a single-dish, many-horns optical layout, specifically using two 40-metre dishes in a crossed-Dragone configuration feeding a focal plane with 28 horn antennas. These horns collect radio waves in two circular polarisations, operating in drift-scan mode (i.e. letting the sky drift across the beams) to build up maps of the sky. BINGO provides fine spectral resolution—including tens of thousands of FFT channels—to distinguish the faint cosmological 21-cm signal from much brighter foregrounds.
 
 <h4>Researchers involved</h4>
 
