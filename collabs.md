@@ -93,19 +93,6 @@ CADEx is a collaboration formed by several research institutions in Spain. At IF
 - [Patricio Vielva]({{site.url}}/vielvap)
 
 
-### SO
-
-<p style="float: left; minmax(540px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/cmbs4.jpg" style="width:500px;height:260px;"></p>
-
-The [Simons Observatory (SO)] (https://simonsobservatory.org/) is a ground-based experiment located at high altitude (~ 5200 m) near the summit of Cerro Toco in the Atacama Desert of Chile. Its mission is to map the Cosmic Microwave Background (CMB) with unprecedented sensitivity, in both temperature and polarization, across multiple frequency bands (27–280 GHz) to extract cosmological information. SO combines small-aperture telescopes (SATs), optimized for the largest angular scales, with a large-aperture telescope (LAT) that provides high angular resolution. Together, these instruments will probe the early Universe (including the search for primordial gravitational waves), measure key cosmological parameters, constrain the sum of neutrino masses, and probe dark energy, while also studying astrophysical phenomena such as galaxy cluster formation and emission from the interstellar medium.
-
-SO will deploy over 60,000 superconducting transition-edge sensor (TES) bolometers across its telescopes. The SATs aim for very low noise at large angular scales, enabling precise measurements of low multipoles (targeting a tensor‐to‐scalar ratio precision of σ(r) ≈ 0.003), while the LAT will map a much larger fraction of the sky (≈ 40-60%) at arcminute resolution to study fine-scale structure such as gravitational lensing and Sunyaev-Zeldovich effects. As of early 2025, the LAT mirrors have been installed, achieving "first light" by observing Mars, and the SATs are in various stages of commissioning.
-
-<h4>Researchers involved</h4>
-
-- [Mathieu Remazeilles]({{site.url}}/remazeillesm)
-
-
 ### DAMIC-M 
 
 <p style="float: left; minmax(340px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/damicm.jpg" style="width:300px;height:400px;"></p>
@@ -342,3 +329,15 @@ The IFCA researchers contributing to the SKAO are focused on two main task force
 - [Diego Herranz]({{site.url}}/herranzd)
 - [Miguel Ruiz-Granda]({{site.url}}/ruizgrandam)
 - [Patricio Vielva]({{site.url}}/vielvap)
+
+### SO
+
+<p style="float: left; minmax(540px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/cmbs4.jpg" style="width:500px;height:260px;"></p>
+
+The [Simons Observatory] (https://simonsobservatory.org/) (SO) is a ground-based experiment located at high altitude (~ 5200 m) near the summit of Cerro Toco in the Atacama Desert of Chile. Its mission is to map the Cosmic Microwave Background (CMB) with unprecedented sensitivity, in both temperature and polarization, across multiple frequency bands (27–280 GHz) to extract cosmological information. SO combines small-aperture telescopes (SATs), optimized for the largest angular scales, with a large-aperture telescope (LAT) that provides high angular resolution. Together, these instruments will probe the early Universe (including the search for primordial gravitational waves), measure key cosmological parameters, constrain the sum of neutrino masses, and probe dark energy, while also studying astrophysical phenomena such as galaxy cluster formation and emission from the interstellar medium.
+
+SO will deploy over 60,000 superconducting transition-edge sensor (TES) bolometers across its telescopes. The SATs aim for very low noise at large angular scales, enabling precise measurements of low multipoles (targeting a tensor‐to‐scalar ratio precision of σ(r) ≈ 0.003), while the LAT will map a much larger fraction of the sky (≈ 40-60%) at arcminute resolution to study fine-scale structure such as gravitational lensing and Sunyaev-Zeldovich effects. As of early 2025, the LAT mirrors have been installed, achieving "first light" by observing Mars, and the SATs are in various stages of commissioning.
+
+<h4>Researchers involved</h4>
+
+- [Mathieu Remazeilles]({{site.url}}/remazeillesm)
