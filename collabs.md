@@ -318,7 +318,7 @@ Here there is some description
 
 ### Simons Observatory (SO)
 
-<p style="float: left; minmax(540px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/so_lat.jpg" style="width:500px;height:500px;"></p>
+<p style="float: left; minmax(540px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/so_lat.jpg" style="width:350px;height:350px;"></p>
 
 The [Simons Observatory](https://simonsobservatory.org/) (SO) is a ground-based experiment located at high altitude (~ 5200 m) near the summit of Cerro Toco in the Atacama Desert of Chile. Its mission is to map the Cosmic Microwave Background (CMB) with unprecedented sensitivity, in both temperature and polarization, across multiple frequency bands (27–280 GHz) to extract cosmological information. SO combines small-aperture telescopes (SATs), optimized for the largest angular scales, with a large-aperture telescope (LAT) that provides high angular resolution. Together, these instruments will probe the early Universe (including the search for primordial gravitational waves), measure key cosmological parameters, constrain the sum of neutrino masses, and probe dark energy, while also studying astrophysical phenomena such as galaxy cluster formation and emission from the interstellar medium.
 
