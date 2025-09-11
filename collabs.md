@@ -52,7 +52,7 @@ The mission is the second F-class mission selected by ESA and the first ESA miss
 
 ### BINGO
 
-<p style="float: left; minmax(350px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/bingo-radio-telescope.jpg" style="width:310px;height:300px;"></p>
+<p style="float: left; minmax(350px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/bingo-radio-telescope.jpg" style="width:400px;height:300px;"></p>
 
 [BINGO](https://bingotelescope.org/) (Baryon Acoustic Oscillations from Integrated Neutral Gas Observations) is a 40-meter radio telescope under construction in northeastern Brazil. It is designed to map the large-scale distribution of neutral hydrogen in the Universe by observing redshifted 21-cm line emission over the frequency range 980–1260 MHz, corresponding to a redshift interval of 0.127 < z < 0.449. Its primary science goal is to detect baryon acoustic oscillations (BAOs) through 21-cm line intensity mapping, thereby providing precise measurements of the Universe's expansion history in a relatively underexplored redshift regime. BINGO will survey approximately 6,000 square degrees of the sky with an angular resolution of about 40 arcminutes.
 
