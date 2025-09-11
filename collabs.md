@@ -10,7 +10,6 @@ The [research lines]({{site.url}}/lines) explored by the members of the Cosmolog
 - [BINGO]({{site.url}}/collabs#BINGO)
 - [BISOU]({{site.url}}/collabs#BISOU)
 - [CADEx]({{site.url}}/collabs#CADEx)
-- [SO]({{site.url}}/collabs#SO)
 - [DAMIC-M]({{site.url}}/collabs#damic-m)
 - [EUCLID]({{site.url}}/collabs#euclid)
 - [HETDEX]({{site.url}}/collabs#hetdex)
@@ -22,7 +21,7 @@ The [research lines]({{site.url}}/lines) explored by the members of the Cosmolog
 - [MeerKLASS]({{site.url}}/collabs#meerklass)
 - [QUIJOTE]({{site.url}}/collabs#quijote)
 - [SKA]({{site.url}}/collabs#ska)
-
+- [SO]({{site.url}}/collabs#SO)
 
 <p style="float: left; width: minmax(350px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/ARRAKIHS.png" style="width:310px;height:310px;"></p>
 
@@ -334,7 +333,7 @@ The IFCA researchers contributing to the SKAO are focused on two main task force
 
 <p style="float: left; minmax(540px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/cmbs4.jpg" style="width:500px;height:260px;"></p>
 
-The [Simons Observatory] (https://simonsobservatory.org/) (SO) is a ground-based experiment located at high altitude (~ 5200 m) near the summit of Cerro Toco in the Atacama Desert of Chile. Its mission is to map the Cosmic Microwave Background (CMB) with unprecedented sensitivity, in both temperature and polarization, across multiple frequency bands (27–280 GHz) to extract cosmological information. SO combines small-aperture telescopes (SATs), optimized for the largest angular scales, with a large-aperture telescope (LAT) that provides high angular resolution. Together, these instruments will probe the early Universe (including the search for primordial gravitational waves), measure key cosmological parameters, constrain the sum of neutrino masses, and probe dark energy, while also studying astrophysical phenomena such as galaxy cluster formation and emission from the interstellar medium.
+The Simons Observatory ([SO] (https://simonsobservatory.org/))  is a ground-based experiment located at high altitude (~ 5200 m) near the summit of Cerro Toco in the Atacama Desert of Chile. Its mission is to map the Cosmic Microwave Background (CMB) with unprecedented sensitivity, in both temperature and polarization, across multiple frequency bands (27–280 GHz) to extract cosmological information. SO combines small-aperture telescopes (SATs), optimized for the largest angular scales, with a large-aperture telescope (LAT) that provides high angular resolution. Together, these instruments will probe the early Universe (including the search for primordial gravitational waves), measure key cosmological parameters, constrain the sum of neutrino masses, and probe dark energy, while also studying astrophysical phenomena such as galaxy cluster formation and emission from the interstellar medium.
 
 SO will deploy over 60,000 superconducting transition-edge sensor (TES) bolometers across its telescopes. The SATs aim for very low noise at large angular scales, enabling precise measurements of low multipoles (targeting a tensor‐to‐scalar ratio precision of σ(r) ≈ 0.003), while the LAT will map a much larger fraction of the sky (≈ 40-60%) at arcminute resolution to study fine-scale structure such as gravitational lensing and Sunyaev-Zeldovich effects. As of early 2025, the LAT mirrors have been installed, achieving "first light" by observing Mars, and the SATs are in various stages of commissioning.
 
