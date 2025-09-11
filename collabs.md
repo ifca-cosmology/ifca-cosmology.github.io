@@ -67,26 +67,9 @@ The telescope design is based on a single-dish, many-horns optical layout, speci
 
 <p style="float: left; minmax(340px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/bisou.png" style="width:300px;height:420px;"></p>
 
-HERE THERE'S SOME BLURB FOR [BISOU](https://www.ias.u-psud.fr/en/content/bisou-moving-phase)
+[BISOU](https://www.ias.u-psud.fr/en/content/bisou-moving-phase) (Balloon Interferometer for Spectral Observations of the primordial Universe) is a balloon-borne differential spectrometer project led by IAS (Institut d'Astrophysique Spatiale) in France. Its goal is to detect spectral distortions in the Cosmic Microwave Background (CMB), especially the y-type distortion caused by late-time energy injections such as during reionization and structure formation. BISOU will also improve measurements of the absolute CMB temperature and the total intensity of the Cosmic Infrared Background (CIB). These distortions are predicted theoretically as tiny deviations from a perfect blackbody spectrum, and while the COBE-FIRAS mission confirmed that the CMB is extremely close to a blackbody, these subtle deviations have not yet been measured to high precision.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+Technically, BISOU is conceived as a pathfinder instrument: a stratospheric balloon experiment that uses a Fourier Transform Spectrometer (FTS) with high sensitivity, refined calibration, and stringent control of systematic effects. The project has already completed a CNES Phase 0 study in spring 2023, validating the concept and key technological choices. As of mid-2024, it has entered into Phase A, which will run for about two years, to further refine the design, build and test subsystems (including cryogenics, optics, thermics, mechanics), ultimately paving the way for an ambitious future space-based CMB spectrometer as part of ESA's Voyage 2050 programme.
 
 <h4>Researchers involved</h4>
 
