@@ -10,7 +10,7 @@ The [research lines]({{site.url}}/lines) explored by the members of the Cosmolog
 - [BINGO]({{site.url}}/collabs#BINGO)
 - [BISOU]({{site.url}}/collabs#BISOU)
 - [CADEx]({{site.url}}/collabs#CADEx)
-- [CMB-S4]({{site.url}}/collabs#CMB-S4)
+- [SO]({{site.url}}/collabs#SO)
 - [DAMIC-M]({{site.url}}/collabs#damic-m)
 - [EUCLID]({{site.url}}/collabs#euclid)
 - [HETDEX]({{site.url}}/collabs#hetdex)
@@ -93,28 +93,13 @@ CADEx is a collaboration formed by several research institutions in Spain. At IF
 - [Patricio Vielva]({{site.url}}/vielvap)
 
 
-### CMB-S4
+### SO
 
 <p style="float: left; minmax(540px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/cmbs4.jpg" style="width:500px;height:260px;"></p>
 
-HERE THERE'S SOME BLURB FOR CMB S4
+The [Simons Observatory (SO)] (https://simonsobservatory.org/) is a ground-based experiment located at high altitude (~ 5200 m) near the summit of Cerro Toco in the Atacama Desert of Chile. Its mission is to map the Cosmic Microwave Background (CMB) with unprecedented sensitivity, in both temperature and polarization, across multiple frequency bands (27–280 GHz) to extract cosmological information. SO combines small-aperture telescopes (SATs), optimized for the largest angular scales, with a large-aperture telescope (LAT) that provides high angular resolution. Together, these instruments will probe the early Universe (including the search for primordial gravitational waves), measure key cosmological parameters, constrain the sum of neutrino masses, and probe dark energy, while also studying astrophysical phenomena such as galaxy cluster formation and emission from the interstellar medium.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+SO will deploy over 60,000 superconducting transition-edge sensor (TES) bolometers across its telescopes. The SATs aim for very low noise at large angular scales, enabling precise measurements of low multipoles (targeting a tensor‐to‐scalar ratio precision of σ(r) ≈ 0.003), while the LAT will map a much larger fraction of the sky (≈ 40-60%) at arcminute resolution to study fine-scale structure such as gravitational lensing and Sunyaev-Zeldovich effects. As of early 2025, the LAT mirrors have been installed, achieving "first light" by observing Mars, and the SATs are in various stages of commissioning.
 
 <h4>Researchers involved</h4>
 
