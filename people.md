@@ -55,7 +55,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 <center>
 <div class="movegrid">
   <section class="card">
-  <a href="{{site.url}}/acebrona"><img src="{{site.url}}/assets/imgs/People/acebrona.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/acebrona"><b>Ana Acebrón</b></a>
+  <a href="{{site.url}}/acebrona"><img src="{{site.url}}/assets/imgs/People/acebrona.jpg" style="width:177px;height:215px;"></a><br><a href="{{site.url}}/acebrona"><b>Ana Acebrón</b></a>
   </section>
   <section class="card">
   <a href="{{site.url}}/dominguezh"><img src="{{site.url}}/assets/imgs/People/dominguezh2.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/dominguezh"><b>Helena Domínguez Sánchez </b></a>
