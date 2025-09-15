@@ -7,9 +7,9 @@ The [research lines]({{site.url}}/lines) explored by the members of the Cosmolog
 # Collaborations & Missions
 
 - [ARRAKIHS]({{site.url}}/collabs#arrakihs)
-- [BINGO]({{site.url}}/collabs#BINGO)
-- [BISOU]({{site.url}}/collabs#BISOU)
-- [CADEx]({{site.url}}/collabs#CADEx)
+- [BINGO]({{site.url}}/collabs#bingo)
+- [BISOU]({{site.url}}/collabs#bisou)
+- [CADEx]({{site.url}}/collabs#cadex)
 - [DAMIC-M]({{site.url}}/collabs#damic-m)
 - [EUCLID]({{site.url}}/collabs#euclid)
 - [HETDEX]({{site.url}}/collabs#hetdex)
