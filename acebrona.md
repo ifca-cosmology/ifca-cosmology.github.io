@@ -4,7 +4,7 @@ layout: default
 
 
 
-<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/acebrona.jpg" style="width:240px;height:300px;"> <a href="https://"> mail: ana.acebron(at)unican.es <br> Office: 121</p>
+<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/acebrona.jpg" style="width:240px;height:300px;"> mail: ana.acebron(at)unican.es <br> Office: 121</p>
 
 # Ana Acebrón
 
