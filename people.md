@@ -13,7 +13,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 <center>
 <div class="movegrid">
   <section class="card">
-    <a href="{{site.url}}/barreirorb"><img src="{{site.url}}/assets/imgs/People/barreirorb.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/barreirorb"><b>Rita Belén Barreiro</b></a> 
+    <a href="{{site.url}}/barreirorb"><img src="{{site.url}}/assets/imgs/People/barreirorb.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/barreirorb"><b>Rita Belén Barreiro</b></a>
   </section>
  <section class="card">
   <a href="{{site.url}}/bernaljl"><img src="{{site.url}}/assets/imgs/People/bernaljl.jpg" style="width:170px;height:215px;"><br> </a> <a href="{{site.url}}/bernaljl"><b>José Luis Bernal</b></a>
@@ -110,6 +110,9 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
   </section>
   <section class="card">
   <a href="{{site.url}}/ruizgrandam"><img src="{{site.url}}/assets/imgs/People/ruizgrandam.jpg" style="width:170px;height:215px;"> <br> </a><a href="{{site.url}}/ruizgrandam"><b> Miguel Ruiz-Granda </b></a>
+  </section>
+  <section class="card">
+  <a href="{{site.url}}/vittalsd"><img src="{{site.url}}/assets/imgs/People/vittalsd.png" style="width:210px;height:215px;"> <br> </a><a href="{{site.url}}/vittalsd"><b> Dheeraj Vittal Shenoy </b></a>
   </section>
 </div>
 </center>
