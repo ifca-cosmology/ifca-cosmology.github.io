@@ -327,7 +327,6 @@ a:hover { text-decoration: underline; }
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(245px, 0.3fr));
   grid-gap: 2em;
-  justify-self: center;
   align-self: center;
   text-align: center;
 }
