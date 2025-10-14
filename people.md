@@ -13,7 +13,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 <center>
 <div class="movegrid">
   <section class="card">
-    <a href="{{site.url}}/barreirorb"><img src="{{site.url}}/assets/imgs/People/barreirorb.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/barreirorb"><b>Rita Belén Barreiro</b></a>
+    <a href="{{site.url}}/barreirorb"><img src="{{site.url}}/assets/imgs/People/barreirorb.png" style="width:170px;height:215px;"></a><br><a href="{{site.url}}/barreirorb"><b>Rita Belén Barreiro</b></a>
   </section>
  <section class="card">
   <a href="{{site.url}}/bernaljl"><img src="{{site.url}}/assets/imgs/People/bernaljl.jpg" style="width:170px;height:215px;"><br> </a> <a href="{{site.url}}/bernaljl"><b>José Luis Bernal</b></a>
