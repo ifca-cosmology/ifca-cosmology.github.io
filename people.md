@@ -13,7 +13,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 <center>
 <div class="movegrid">
   <section class="card">
-    <a href="{{site.url}}/barreirorb"><img src="{{site.url}}/assets/imgs/People/barreirorb.png" style="width:170px;height:215px;"></a><br><a href="{{site.url}}/barreirorb"><b>Rita Belén Barreiro</b></a>
+    <a href="{{site.url}}/barreirorb"><img src="{{site.url}}/assets/imgs/People/barreirorb.png" style="width:170px;height:215px;"></a><br><a href="{{site.url}}/barreirorb"><b>Belén Barreiro</b></a>
   </section>
  <section class="card">
   <a href="{{site.url}}/bernaljl"><img src="{{site.url}}/assets/imgs/People/bernaljl.jpg" style="width:170px;height:215px;"><br> </a> <a href="{{site.url}}/bernaljl"><b>José Luis Bernal</b></a>
@@ -77,7 +77,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
   <a href="{{site.url}}/longeardn"><img src="{{site.url}}/assets/imgs/People/longeardn.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/longeardn"><b>Nicolas Longeard </b></a>
   </section>
   <section class="card">
-  <a href="{{site.url}}/scarcellaf"><img src="{{site.url}}/assets/imgs/People/scarcellaf.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/scarcellaf"><b>Francesca Scarcella </b></a>
+  <a href="{{site.url}}/scarcellaf"><img src="{{site.url}}/assets/imgs/People/scarcellaf.jpeg" style="width:170px;height:215px;"></a><br><a href="{{site.url}}/scarcellaf"><b>Francesca Scarcella </b></a>
   </section>
 </div>
 </center>
