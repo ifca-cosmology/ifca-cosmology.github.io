@@ -4,7 +4,7 @@ layout: default
 
 
 
-<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/chandranj.png" style="width:300px;height:300px;"> <a href="https://">Personal website</a> <br> mail: chandran(at)ifca.unican.es <br> Office: 124</p>
+<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/chandranj.png" style="width:300px;height:316px;"> <a href="https://">Personal website</a> <br> mail: chandran(at)ifca.unican.es <br> Office: 124</p>
 
 # Jyothis Chandran
 
