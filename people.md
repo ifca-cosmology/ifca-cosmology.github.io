@@ -88,7 +88,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 <center>
 <div class="movegrid">
   <section class="card">
-  <a href="{{site.url}}/chandranj"><img src="{{site.url}}/assets/imgs/People/chandranj.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/chandranj"><b>Jyothis Chandran </b></a>
+  <a href="{{site.url}}/chandranj"><img src="{{site.url}}/assets/imgs/People/chandranj.png" style="width:200px;height:211px;"></a><br><a href="{{site.url}}/chandranj"><b>Jyothis Chandran </b></a>
   </section>
   <section class="card">
   <a href="{{site.url}}/gimenoc"><img src="{{site.url}}/assets/imgs/People/gimenoc.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/gimenoc"><b>Christian Gimeno-Amo </b></a>
