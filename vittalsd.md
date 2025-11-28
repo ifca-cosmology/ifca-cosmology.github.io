@@ -4,7 +4,7 @@ layout: default
 
 
 
-<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/vittalsd.png" style="width:350px; height:260px;"> <a href="https://dheerajshenoy.github.io/">Personal website</a> <br> mail: shenoy(at)ifca.unican.es <br> Office:  </p>
+<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/vittalsd.png" style="width:350px; height:260px;"> <a href="https://dheerajshenoy.github.io/">Personal website</a> <br> mail: shenoy(at)ifca.unican.es <br> Office: 124  </p>
 
 # Dheeraj Vittal Shenoy
 

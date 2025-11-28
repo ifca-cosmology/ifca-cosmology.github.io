@@ -4,18 +4,22 @@ layout: default
 
 
 
-<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/name.jpg" style="width:224px;height:300px;"> <a href="https://">Personal website</a> <br> mail: xxx(at)ifca.unican.es <br> Office: xxx</p>
+<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/scarcellaf.jpeg" style="width:224px;height:300px;"> <br> mail: scarcella(at)ifca.unican.es <br> Office: 114</p>
 
-# NAME
+# Francesca Scarcella
 
 
+Dr. Francesca Scarcella received her Ph.D. from IFT (UAM/CSIC) in 2022. She held a post-doc position at LUPM (CNRS) before joining IFCA in December 2024.
 
 <br>
 
+Publication list: [click here](https://inspirehep.net/authors/1873353)
 
 ### Research interests
 
--
+- Dark Matter searches
+- Primordial Black Holes
+- Gravitational Waves
 
 
 ### Collaborations & Missions
