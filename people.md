@@ -120,7 +120,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 
 
 
-## Technical Staff
+## Support Staff
 
 <center>
 <div class="movegrid">

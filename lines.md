@@ -34,7 +34,7 @@ HERE SOME BLURB ABOUT CMB
 - [Christian Gimeno-Amo]({{sire.url}}/gimenoc)
 - [Diego Herranz]({{sire.url}}/herranzd)
 - [Md Ishaque Khan]({{sire.url}}/khanmi)
-- [Enrique Martínez-Fernández]({{site.url}}/martineze)
+- [Enrique Martínez-González]({{site.url}}/martineze)
 - [Mathieu Remazeilles]({{site.url}}/remazeillesm)
 - [Miguel Ruiz-Granda]({{sire.url}}/ruizgrandam)
 - [Patricio Vielva]({{site.url}}/vielvap)
