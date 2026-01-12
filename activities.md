@@ -19,7 +19,7 @@ Day, time, and place
 Abstract
 
 ## Master Seminars
-Seminars part of the [Master in Particle Physics and Physics of the Cosmos](https://masterphyparcos.ifca.es/) of the University of Cantabria and International University Menéndez Pelayo, coordinated by IFCA.
+Seminars part of the [Master in Particle Physics and Physics of the Cosmos](https://masterphyparcos.ifca.es/) of the University of Cantabria and International University Menéndez Pelayo, coordinated by IFCA. Broader topic and treated at an introductory level. 
 
 ## Outreach Events
 Outreach events organized or participated by members of the cosmology group. 
