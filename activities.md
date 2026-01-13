@@ -16,6 +16,9 @@ Specialized seminars organized by the cosmology group covering the research inte
 <h4>TBD (Azadeh Moradinezhad, LapTh)</h4> 
 11/03/2026 - 11:30 - Sala de Claustros
 
+<h4>TBD (Boryana Hadzhiyska, Cambridge University)</h4> 
+08/04/2026 - 11:30 - Sala de Claustros 
+
 <h4>TBD (Henrique Rubira, LMU and Cambridge University)</h4> 
 22/04/2026 - 11:30 - Sala de Claustros
 
