@@ -335,3 +335,27 @@ details {
   margin-bottom: 0.5rem;
 }
 
+/* Style all toggle blocks */
+.toggle {
+  margin-bottom: 0.5rem; /* vertical spacing between toggles */
+}
+
+/* Keep the summary arrow visible and cursor pointer */
+.toggle summary {
+  cursor: pointer;
+  list-style: initial; /* ensures the arrow appears on Android and desktop */
+  outline: none;       /* optional: remove focus outline */
+}
+
+/* Optional: tweak arrow size/position (works on most browsers) */
+.toggle summary::-webkit-details-marker {
+  font-size: 1em;
+}
+
+/* Style the toggle title like h4 */
+.toggle .toggle-title {
+  display: inline;       /* keep inline for arrow to show */
+  margin: 0;
+  color: #159957;
+}
+
