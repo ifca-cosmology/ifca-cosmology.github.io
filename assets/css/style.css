@@ -346,6 +346,7 @@ details {
   list-style: initial; /* ensures the arrow appears on Android and desktop */
   outline: none;       /* optional: remove focus outline */
   color: #159957;
+  display: list-item;
 }
 
 /* Optional: tweak arrow size/position (works on most browsers) */
