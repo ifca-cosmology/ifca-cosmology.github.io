@@ -331,5 +331,7 @@ a:hover { text-decoration: underline; }
   text-align: center;
 }
 
-
+details {
+  margin-bottom: 0.5rem;
+}
 
