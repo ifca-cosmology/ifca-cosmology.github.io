@@ -44,7 +44,7 @@ The mission is the second F-class mission selected by ESA and the first ESA miss
 - [Rafael Guzmán]({{site.url}}/guzmanr)
 - [Diego Herranz]({{sire.url}}/herranzd)
 - [Nicolas Longeard]({{site.url}}/longeardn)
-- [Enrique Martínez-Fernández]({{site.url}}/martineze)
+- [Enrique Martínez-González]({{site.url}}/martineze)
 - [Abram Pérez]({{site.url}}/pereza) 
 - [Juan Villafañe]({{site.url}}/villafanej)
 
@@ -88,7 +88,7 @@ CADEx is a collaboration formed by several research institutions in Spain. At IF
 - [Laura Castelló]({{site.url}}/castellol)
 - [Francisco Javier Casas]({{site.url}}/casasfj)
 - [Bradley J. Kavanagh]({{site.url}}/kavanaghbj)
-- [Enrique Martínez-Fernández]({{site.url}}/martineze)
+- [Enrique Martínez-González]({{site.url}}/martineze)
 - [Patricio Vielva]({{site.url}}/vielvap)
 
 
@@ -120,7 +120,7 @@ Euclid complements other major observatories like the James Webb Space Telescope
 - [Ana Acebrón]({{site.url}}/acebrona)
 - [José María Diego]({site.url}}/diegojm)
 - [Helena Domínguez Sánchez]({{site.url}}/dominguezh)
-- [Enrique Martínez-Fernandez]({{site.url}}/martineze)
+- [Enrique Martínez-González]({{site.url}}/martineze)
 - [Guillermo Martínez-Somonte]({{site.url}}/martinezg)
 - [José María Palencia]({{site.url}}/palenciajm)
 - [Sefa Pamuk]({{site.url}}/pamuks)
@@ -167,7 +167,7 @@ HERE SOME BLURB ABOUT JPAS
 
 <h4>Researchers involved</h4>
 
-- [Enrique Martínez-Fernández]({{site.url}}/martineze)
+- [Enrique Martínez-González]({{site.url}}/martineze)
 - [Guillermo Martínez-Somonte]({{site.url}}/martinezg)
 
 
@@ -205,7 +205,7 @@ As the successor to HST, JWST marks the next chapter in space-based astronomy, s
 - [Laura Castelló]({{site.url}}/castellol)
 - [Christian Gimeno-Amo]({{site.url}}/gimenoc)
 - [Diego Herranz]({{sire.url}}/herranzd)
-- [Enrique Martínez-Fernández]({{site.url}}/martineze)
+- [Enrique Martínez-González]({{site.url}}/martineze)
 - [Guillermo Martínez-Somonte]({{site.url}}/martinezg)
 - [Mathieu Remazeilles]({{site.url}}/remazeillesm)
 - [Miguel Ruiz-Granda]({{site.url}}/ruizgrandam)
@@ -312,7 +312,7 @@ Here there is some description
 - [Rita Belén Barreiro]({{site.url}}/barreirorb)
 - [Francisco Javier Casas]({{site.url}}/casasfj)
 - [Diego Herranz]({{sire.url}}/herranzd)
-- [Enrique Martínez-Fernández]({{site.url}}/martineze)
+- [Enrique Martínez-González]({{site.url}}/martineze)
 - [Mathieu Remazeilles]({{site.url}}/remazeillesm)
 - [Patricio Vielva]({{site.url}}/vielvap)
 
