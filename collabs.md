@@ -16,7 +16,6 @@ The [research lines]({{site.url}}/lines) explored by the members of the Cosmolog
 - [J-PAS]({{site.url}}/collabs#j-pas)
 - [JWST & HST]({{site.url}}/collabs#jwst-&-hst)
 - [LiteBIRD]({{site.url}}/collabs#litebird)
-- [Lunar Gravitational Wave Antenna]({{site.url}}/collabs#lunar-gravitational-wave-antenna)
 - [LISA]({{site.url}}/collabs#lisa)
 - [MeerKLASS]({{site.url}}/collabs#meerklass)
 - [QUIJOTE]({{site.url}}/collabs#quijote)
@@ -25,7 +24,7 @@ The [research lines]({{site.url}}/lines) explored by the members of the Cosmolog
 
 <p style="float: left; width: minmax(350px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/ARRAKIHS.png" style="width:310px;height:310px;"></p>
 
-### ARRAKIHS
+## ARRAKIHS
 The ARRAKIHS mission (Analysis of Resolved Remnants of Accreted galaxies as a Key Instrument for Halo Surveys) is a cutting-edge European Space Agency (ESA) project designed to explore the ultra-low surface brightness universe. ARRAKIHS aims to tackle one of the most profound questions in modern cosmology: the nature of dark matter. This mission will provide unprecedented data by systematically observing about one hundred nearby galaxy halos, probing the faint remnants of galaxy interactions and dark matter distribution that are invisible to ground-based telescopes.
 
 ARRAKIHS will carry out the most detailed survey ever conducted of galaxy halos down to a surface brightness level of 31 mag/arcsec². By observing visible (VIS) and near-infrared (NIR) wavelengths, ARRAKIHS will collect a unique dataset that will challenge current cosmological models and possibly lead to revisions of the widely accepted Cold Dark Matter (CDM) theory.
@@ -49,7 +48,7 @@ The mission is the second F-class mission selected by ESA and the first ESA miss
 - [Juan Villafañe]({{site.url}}/villafanej)
 
 
-### BINGO
+## BINGO
 
 <p style="float: left; minmax(350px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/bingo-radio-telescope.jpg" style="width:400px;height:300px;"></p>
 
@@ -62,7 +61,7 @@ The telescope design is based on a single-dish, many-horns optical layout, speci
 - [Mathieu Remazeilles]({{site.url}}/remazeillesm)
 
 
-### BISOU
+## BISOU
 
 <p style="float: left; minmax(340px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/bisou.png" style="width:300px;height:420px;"></p>
 
@@ -74,7 +73,7 @@ Technically, BISOU is conceived as a pathfinder instrument: a stratospheric ball
 
 - [Mathieu Remazeilles]({{site.url}}/remazeillesm)
 
-### CADEx 
+## CADEx 
 
 <p style="float: left; minmax(350px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/cadex.png" style="width:310px;height:236px;"></p>
 
@@ -92,7 +91,7 @@ CADEx is a collaboration formed by several research institutions in Spain. At IF
 - [Patricio Vielva]({{site.url}}/vielvap)
 
 
-### DAMIC-M 
+## DAMIC-M 
 
 <p style="float: left; minmax(340px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/damicm.jpg" style="width:300px;height:400px;"></p>
 
@@ -105,7 +104,7 @@ IFCA's contribution to DAMIC-M includes members of both the Cosmology group and 
 
 - [Bradley J. Kavanagh]({{site.url}}/kavanaghbj)
 
-### EUCLID 
+## EUCLID 
 
 <p style="float: left; minmax(540px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/euclid.jpg" style="width:500px;height:250px;"></p>
 
@@ -125,7 +124,7 @@ Euclid complements other major observatories like the James Webb Space Telescope
 - [José María Palencia]({{site.url}}/palenciajm)
 - [Sefa Pamuk]({{site.url}}/pamuks)
 
-### HETDEX
+## HETDEX
 
 <p style="float: left; minmax(540px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/hetdex.jpg" style="width:500px;height:210px;"></p>
 
@@ -141,7 +140,7 @@ Since HETDEX galaxy survey does not employ galaxy targeting (thanks to the IFUs)
 - [José Luis Bernal]({{site.url}}/bernaljl)
 
 
-### J-PAS
+## J-PAS
 
 <p style="float: left; minmax(540px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/jpas.jpg" style="width:500px;height:250px;"></p>
 
@@ -156,7 +155,7 @@ Javalambre Physics of the Accelerating Universe Astrophysical Survey, [J-PAS](ht
 - [Guillermo Martínez-Somonte]({{site.url}}/martinezg)
 
 
-### JWST & HST 
+## JWST & HST 
 
 <p style="float: left; minmax(540px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/jwst.jpg" style="width:500px;height:250px;"></p>
 
@@ -178,7 +177,7 @@ As the successor to HST, JWST marks the next chapter in space-based astronomy, s
 - [José María Diego]({site.url}}/diegojm)
 - [José María Palencia]({{site.url}}/palenciajm)
 
-### LiteBIRD 
+## LiteBIRD 
 
 <p style="float: left; minmax(390px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/litebird.jpg" style="width:350px;height:350px;"></p>
 
@@ -197,34 +196,7 @@ As the successor to HST, JWST marks the next chapter in space-based astronomy, s
 - [Patricio Vielva]({{site.url}}/vielvap)
 
 
-### Lunar Gravitational Wave Antenna (LGWA)
-
-<p style="float: left; minmax(350px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/LGWA.png" style="width:310px;height:170px;"></p>
-
-HERE THERE'S SOME BLURB FOR LGWA
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<h4>Researchers involved</h4>
-
-- [Bradley J. Kavanagh]({{site.url}}/kavanaghbj)
-
-### LISA
+## LISA
 
 <p style="float: left; minmax(350px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/lisa.jpg" style="width:310px;height:300px;"></p>
 
@@ -252,7 +224,7 @@ HERE THERE'S SOME BLURB FOR LISA
 - [Bradley J. Kavanagh]({{site.url}}/kavanaghbj)
 
 
-### MeerKLASS
+## MeerKLASS
 
 <p style="float: left; minmax(540px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/meerklass.jpg" style="width:500px;height:250px;"></p>
 
@@ -269,7 +241,7 @@ IFCA researchers involved in MeerKLASS focus on the theoretical modeling of the 
 - [Sefa Pamuk]({{site.url}}/pamuks)
 
 
-### QUIJOTE 
+## QUIJOTE 
 
 <p style="float: left; minmax(440px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/quijote.jpg" style="width:400px;height:300px;"></p>
 
@@ -301,7 +273,7 @@ Here there is some description
 - [Mathieu Remazeilles]({{site.url}}/remazeillesm)
 - [Patricio Vielva]({{site.url}}/vielvap)
 
-### Simons Observatory (SO)
+## Simons Observatory (SO)
 
 <p style="float: left; minmax(540px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/so_lat.jpg" style="width:350px;height:300px;"></p>
 
@@ -313,7 +285,7 @@ SO will deploy over 60,000 superconducting transition-edge sensor (TES) bolomete
 
 - [Mathieu Remazeilles]({{site.url}}/remazeillesm)
 
-### SKA
+## SKA
 
 <p style="float: left; minmax(840px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/ska.jpg" style="width:800px;height:150px;"></p>
 

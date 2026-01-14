@@ -14,12 +14,14 @@ The interests of the members of the Cosmology Group at IFCA cover a wide variety
 - [Gravitational Lensing]({{site.url}}/lines#gravitational-lensing)
 - [Gravitational Waves]({{site.url}}/lines#gravitational-waves)
 - [Large-Scale Structure]({{site.url}}/lines#large-scale-structure)
-- [Line-Intensity Mapping]({{site.url}}/lines#large-scale-structure)
+- [Line-Intensity Mapping]({{site.url}}/lines#line-intensity-mapping)
 
 
 
-
-<p style="float: left; width: minmax(540px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Lines/cmb.jpg" style="width:500px;height:250px;"></p>
+<p style="text-align:center; margin: 20px 0 -20px 0;">
+  <img src="{{site.url}}/assets/imgs/Lines/cmb.jpg"
+       style="max-width:100%; height:auto; width:500px;">
+</p>
 
 ## Cosmic Microwave Background
 
@@ -78,6 +80,10 @@ BLURB ABOUT COSMO TENSIONS
 
 - [José Luis Bernal]({{site.url}}/bernaljl)
 
+<p style="text-align:center; margin: 20px 0 -20px 0;">
+  <img src="{{site.url}}/assets/imgs/Lines/darkmatter.jpg"
+       style="max-width:100%; height:auto; width:750px;">
+</p>
 
 ## Dark Matter
 
@@ -141,6 +147,11 @@ BLURB ABOUT GRAV LENS
 - [J-PAS]({{site.url}}/collabs#j-pas)
 - [JWST & HST]({{site.url}}/collabs#jwst-&-hst)
 
+<p style="text-align:center; margin: 20px 0 -20px 0;">
+  <img src="{{site.url}}/assets/imgs/Lines/gws.jpg"
+       style="max-width:100%; height:auto; width:750px;">
+</p>
+
 ## Gravitational Waves
 
 BLURB ABOUT GRAV WAVES
@@ -177,7 +188,10 @@ BLURB ABOUT LSS
 - [SKA]({{site.url}}/collabs#ska)
 
 
-<p style="float: left; width: minmax(700px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Lines/lim.jpg" style="width:750px;height:215px;"></p>
+<p style="text-align:center; margin: 20px 0 -20px 0;">
+  <img src="{{site.url}}/assets/imgs/Lines/lim.jpg"
+       style="max-width:100%; height:auto; width:750px;">
+</p>
 
 ## Line-Intensity Mapping
 
