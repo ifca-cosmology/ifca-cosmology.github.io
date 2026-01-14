@@ -17,7 +17,7 @@ Specialized seminars organized by the cosmology group covering the research inte
   <summary>11/03/2026, TBD (Azadeh Moradinezhad, LapTh)</summary>
 	11:30, 11/03/2026 - Sala de Claustros
 	<br>
-	Abstract: TBC
+	<i>Abstract</i>: TBC
 	<br>
 </details>
 
@@ -25,7 +25,7 @@ Specialized seminars organized by the cosmology group covering the research inte
   <summary>08/04/2026, TBD (Boryana Hadzhiyska, Cambridge University)</summary>
 	11:30, 08/04/2026 - Sala de Claustros
 	<br>
-    Abstract: TBC
+    <i>Abstract</i>: TBC
 	<br>
 </details>
 
@@ -34,7 +34,7 @@ Specialized seminars organized by the cosmology group covering the research inte
   <summary>22/04/2026, TBD (Henrique Rubira, LMU and Cambridge University)</summary>
 	11:30, 22/04/2026 - Sala de Claustros
 	<br>
-    Abstract: TBC
+    <i>Abstract</i>: TBC
 	<br>
 </details>
 
@@ -42,7 +42,7 @@ Specialized seminars organized by the cosmology group covering the research inte
   <summary>06/05/2026, TBD (Martinne Lokken, IFAE)</summary>
 	11:30, 06/05/2026 - Sala de Claustros
 	<br>
-	Abstract: TBC
+	<i>Abstract</i>: TBC
 	<br>
 </details>
 
