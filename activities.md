@@ -81,4 +81,8 @@ Outreach events organized or participated by members of the cosmology group.
 
 
 # Conferences
-Conferences and workshops organized by members of the cosmology group. 
+Recent and upcoming conferences and workshops organized by members of the cosmology group. 
+
+- <h4>XI Meeting on Fundamental Cosmology</h4>
+18-20 November 2025, Santander
+[[Conference Webpage](https://cosmo2025.unican.es)]
