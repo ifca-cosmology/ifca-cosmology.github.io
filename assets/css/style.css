@@ -338,6 +338,7 @@ details {
 /* Style all toggle blocks */
 .toggle {
   margin-bottom: 0.5rem; /* vertical spacing between toggles */
+ padding-left: 1.5rem;
 }
 
 /* Keep the summary arrow visible and cursor pointer */
@@ -347,6 +348,7 @@ details {
   outline: none;       /* optional: remove focus outline */
   color: #159957;
   display: list-item;
+
 }
 
 /* Optional: tweak arrow size/position (works on most browsers) */
