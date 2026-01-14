@@ -145,28 +145,13 @@ Since HETDEX galaxy survey does not employ galaxy targeting (thanks to the IFUs)
 
 <p style="float: left; minmax(540px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/jpas.jpg" style="width:500px;height:250px;"></p>
 
-HERE SOME BLURB ABOUT JPAS
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+Javalambre Physics of the Accelerating Universe Astrophysical Survey, [J-PAS](https://www.j-pas.org), is an unprecedented photometric sky survey of 8500 square-degrees visible from Javalambre in 59 colors, using a set of broad, intermediate and narrow band filters. J-PAS will discover an unprecedented number of stars, galaxies, supernovas, quasars and solar system objects, which will be mapped with exquisite accuracy. The innovative designs of the J-PAS camera and filter system will allow, for the first time, to map not only the positions of hundreds of millions of galaxies in the sky, but their individual distances to us as well, providing the first complete 3D map of the Universe. 
 
 
 <h4>Researchers involved</h4>
 
+- [José María Diego]({site.url}}/diegojm)
+- [Helena Domínguez Sánchez]({{site.url}}/dominguezh)
 - [Enrique Martínez-González]({{site.url}}/martineze)
 - [Guillermo Martínez-Somonte]({{site.url}}/martinezg)
 
