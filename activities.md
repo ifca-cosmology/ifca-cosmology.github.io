@@ -83,6 +83,13 @@ Outreach events organized or participated by members of the cosmology group.
 # Conferences
 Recent and upcoming conferences and workshops organized by members of the cosmology group. 
 
-- <h4>XI Meeting on Fundamental Cosmology</h4>
-18-20 November 2025, Santander
-[[Conference Webpage](https://cosmo2025.unican.es)]
+- <h4>New Frontiers in Cosmology</h4>
+10-14 August 2026, A Coruña:
+[Conference Webpage](https://www.fundacion.udc.es/cosmology%2Dconference%2Dcoruna%2D2026/index.asp?id=90&idioma=EN)
+
+<details class="toggle">
+  <summary> Click here to see a list of past conferences and workshops organized by members of the group </summary>
+	<h4>XI Meeting on Fundamental Cosmology</h4>
+18-20 November 2025, Santander <a href="https://www.fundacion.udc.es/cosmology%2Dconference%2Dcoruna%2D2026/index.asp?id=90&idioma=EN">Conference webpage</a>
+</details>
+
