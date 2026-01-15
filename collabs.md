@@ -182,6 +182,18 @@ As the successor to HST, JWST marks the next chapter in space-based astronomy, s
 <p style="float: left; minmax(390px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/litebird.jpg" style="width:350px;height:350px;"></p>
 
 
+
+LiteBIRD (Lite satellite for the study of B-mode polarization and Inflation from cosmic background Radiation Detection) is a space mission led by [JAXA](https://global.jaxa.jp/), with international partners, focused on probing primordial cosmology and fundamental physics. Its main goal is to detect or rule out the imprint of primordial gravitational waves from cosmic inflation in the polarization of the cosmic microwave background (CMB).
+
+LiteBIRD will map the CMB polarization across the entire sky in 15 frequency bands (34–448 GHz) with an angular resolution of 0.5° at 100 GHz. The mission aims to measure the tensor-to-scalar ratio (r) with a precision of δr ≲ 0.001 (68% confidence), testing inflationary models and potentially ruling out scenarios such as Starobinsky’s R² gravity model. A positive detection would provide strong evidence for inflation and insights into the physics behind the Universe’s structure.
+
+Scheduled for launch in the early 2030s aboard JAXA’s H3 rocket, LiteBIRD will operate from the Sun–Earth Lagrange point L2 for three years in a stable, low-noise environment. Its multi-frequency approach is designed to overcome foreground contamination from astrophysical sources.
+
+Beyond inflation, LiteBIRD will deliver high-precision measurements of reionization optical depth, improve constraints on neutrino masses, and map large-scale mass and hot gas distributions via gravitational lensing and the Sunyaev-Zeldovich effect. It will also test isotropy, Gaussianity, parity symmetry, and search for signatures of cosmic birefringence and primordial magnetic fields, which are potential indicators of new physics beyond the Standard Model.
+
+LiteBIRD represents the next step after COBE, WMAP, and Planck, offering unprecedented sensitivity and frequency coverage. Its data will be a lasting legacy for cosmology and astrophysics, shaping our understanding of the Universe’s origin and fundamental laws.
+
+
 <h4>Researchers involved</h4>
 
 - [Rita Belén Barreiro]({{site.url}}/barreirorb)
