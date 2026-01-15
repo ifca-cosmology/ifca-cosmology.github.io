@@ -144,8 +144,9 @@ Since HETDEX galaxy survey does not employ galaxy targeting (thanks to the IFUs)
 
 <p style="float: left; minmax(540px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/jpas.jpg" style="width:500px;height:250px;"></p>
 
-Javalambre Physics of the Accelerating Universe Astrophysical Survey, [J-PAS](https://www.j-pas.org), is an unprecedented photometric sky survey of 8500 square-degrees visible from Javalambre in 59 colors, using a set of broad, intermediate and narrow band filters. J-PAS will discover an unprecedented number of stars, galaxies, supernovas, quasars and solar system objects, which will be mapped with exquisite accuracy. The innovative designs of the J-PAS camera and filter system will allow, for the first time, to map not only the positions of hundreds of millions of galaxies in the sky, but their individual distances to us as well, providing the first complete 3D map of the Universe. 
+[J-PAS](https://j-pas.org/survey) (Javalambre Physics of the Accelerating Universe Astrophysical Survey) will cover ~ 8000 deg^2 using an unprecedented system of 54 narrow-band filters, supplemented by two medium-band and one broad-band filter to cover the full optical range. The filter system was optimized to pursue three main scientific goals: first, to accurately measure photometric redshifts for galaxies up to z~1; second, to study stellar populations in nearby galaxies; and third, to resolve broad spectral features of objects such as AGNs and supernovae
 
+The main J-PAS instrument is the JST250, a 2.5 m telescope  with an effective field of view of 7 square degrees. That instrument has an étendue of about 26 m^2 deg^2, which is on a par with other state-of-the art instruments dedicated to wide-area astrophysical surveys. The telescope is located in the Observatorio Astrofísico de Javalambre, an astronomical Spanish ICTS particularly devoted to carry out large sky astronomical surveys with two large field of view telescopes, state-of-the-art panoramic instrumentation, and an unprecedented set of optical filters. 
 
 <h4>Researchers involved</h4>
 
