@@ -17,13 +17,12 @@ The interests of the members of the Cosmology Group at IFCA cover a wide variety
 - [Line-Intensity Mapping]({{site.url}}/lines#line-intensity-mapping)
 
 
+## Cosmic Microwave Background
 
-<p style="text-align:center; margin: 20px 0 -20px 0;">
+<p style="text-align:center; margin: 0 0 0 0;">
   <img src="{{site.url}}/assets/imgs/Lines/cmb.jpg"
        style="max-width:100%; height:auto; width:500px;">
 </p>
-
-## Cosmic Microwave Background
 
 The Cosmic Microwave Background is the oldest light in the Universe, a relic from about 380,000 years after the Big Bang. Its discovery and precise measurement have transformed cosmology, providing a cornerstone for the standard model of the Universe. Studies of the CMB have revealed its near-perfect blackbody spectrum, tiny temperature anisotropies, and polarization patterns, which encode information about the Universe’s composition, geometry, and evolution. Our research focuses on extracting this information with increasing precision. Past missions such as COBE, WMAP, and Planck established the ΛCDM model and measured key parameters like the age, curvature, and matter content of the Universe. Today, the major goals are even more ambitious: detecting the faint B-mode polarization signal from primordial gravitational waves, constraining inflationary models, and probing physics beyond the Standard Model.
 
@@ -62,12 +61,14 @@ BLURB ABOUT COSMO TENSIONS
 
 - [José Luis Bernal]({{site.url}}/bernaljl)
 
-<p style="text-align:center; margin: 20px 0 -20px 0;">
+
+
+## Dark Matter
+
+<p style="text-align:center; margin: 0 0;">
   <img src="{{site.url}}/assets/imgs/Lines/darkmatter.jpg"
        style="max-width:100%; height:auto; width:750px;">
 </p>
-
-## Dark Matter
 
 BLURB ABOUT DM!!
 
@@ -113,12 +114,12 @@ BLURB ABOUT GAL EVOL AND FORM
 - [MeerKLASS]({{site.url}}/collabs#meerklass)
 - [SKA]({{site.url}}/collabs#ska)
 
-<p style="text-align:center; margin: 20px 0 -20px 0;">
-  <img src="{{site.url}}/assets/imgs/Lines/lensing.png"
-       style="max-width:100%; height:auto; width:800px;">
-</p>
-
 ## Gravitational Lensing
+
+<p style="text-align:center; margin: 20px 0 0 0;">
+  <img src="{{site.url}}/assets/imgs/Lines/lensing.png"
+       style="max-width:100%; height:auto; width:750px;">
+</p>
 
 Gravitational lensing is produced by the warping of space-time around massive structures. The group specialises in gravitational lensing around the most massive structures in the universe, Galaxy Clusters. We take advantage of the best observatories on Earth (actually in orbit around Earth and at Lagrange point L2), namely the Hubble Space Telescope (HST) and James Webb Space Telescope (JWST) where we have secured over 500 hours of observing time together with our collaborators. The group has developed its own techniques and algorithms to reconstruct the distribution of matter (mostly dark matter) in galaxy clusters using the gravitational lensing effect. In addition, we use this effect to constrain the cosmological model via the difference time of arrival of the light from different counterimages (or time delays) of the same background object, usually a quasar or a supernova. The gravitational lensing group at IFCA has used time delays to constrain the expansion rate of the universe, of Hubble constant, through this technique. 
 
@@ -138,12 +139,13 @@ Within Euclid we are involved with the analysis of new gravitational lenses (bot
 - [J-PAS]({{site.url}}/collabs#j-pas)
 - [JWST & HST]({{site.url}}/collabs#jwst-&-hst)
 
-<p style="text-align:center; margin: 20px 0 -20px 0;">
+
+## Gravitational Waves
+
+<p style="text-align:center; margin: 0 0;">
   <img src="{{site.url}}/assets/imgs/Lines/gws.jpg"
        style="max-width:100%; height:auto; width:750px;">
 </p>
-
-## Gravitational Waves
 
 BLURB ABOUT GRAV WAVES
 
@@ -182,12 +184,13 @@ BLURB ABOUT LSS
 - [SKA]({{site.url}}/collabs#ska)
 
 
-<p style="text-align:center; margin: 20px 0 -20px 0;">
+
+## Line-Intensity Mapping
+
+<p style="text-align:center; margin: 0 0 0 0;">
   <img src="{{site.url}}/assets/imgs/Lines/lim.jpg"
        style="max-width:100%; height:auto; width:750px;">
 </p>
-
-## Line-Intensity Mapping
 
 Line-intensity mapping (LIM) is a technique that employs low-aperture instruments to quickly scan the sky and collect all the incoming radiation, targetting identifiable spectral lines to recover radial information through good experimental spectral resolution. Since it does not requires to resolve individual sources, LIM provides access to redshifts well beyond the reach of galaxy surveys and is also sensitive to the population of faint sources that are hard to resolve individually. This provides direct access to epochs of the history of the Universe and regimes that are inaccessible otherwise.
 
