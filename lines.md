@@ -25,30 +25,11 @@ The interests of the members of the Cosmology Group at IFCA cover a wide variety
 
 ## Cosmic Microwave Background
 
-HERE SOME BLURB ABOUT CMB
+The Cosmic Microwave Background is the oldest light in the Universe, a relic from about 380,000 years after the Big Bang. Its discovery and precise measurement have transformed cosmology, providing a cornerstone for the standard model of the Universe. Studies of the CMB have revealed its near-perfect blackbody spectrum, tiny temperature anisotropies, and polarization patterns, which encode information about the Universe’s composition, geometry, and evolution. Our research focuses on extracting this information with increasing precision. Past missions such as COBE, WMAP, and Planck established the ΛCDM model and measured key parameters like the age, curvature, and matter content of the Universe. Today, the major goals are even more ambitious: detecting the faint B-mode polarization signal from primordial gravitational waves, constraining inflationary models, and probing physics beyond the Standard Model.
 
-<h4>Researchers involved</h4>
+In addition to anisotropies and polarization, spectral distortions of the CMB spectrum offer a new window into the thermal history of the Universe. These distortions can reveal energy release from early processes such as particle decays, primordial black holes, or small-scale structure formation, providing complementary constraints on fundamental physics. We also explore secondary effects imprinted on the CMB, such as gravitational lensing and the Sunyaev-Zeldovich effect, which trace the distribution of matter and hot gas on large scales. These measurements help us understand the formation of cosmic structure, the role of dark matter and dark energy, and the properties of neutrinos. 
 
-- [Rita Belén Barreiro]({{site.url}}/barreirorb)
-- [Francisco Javier Casas]({{site.url}}/casasfj)
-- [Laura Castelló]({{site.url}}/castellol)
-- [Marcos Cruz]({{sire.url}}/cruzm)
-- [Christian Gimeno-Amo]({{sire.url}}/gimenoc)
-- [Diego Herranz]({{sire.url}}/herranzd)
-- [Md Ishaque Khan]({{sire.url}}/khanmi)
-- [Enrique Martínez-González]({{site.url}}/martineze)
-- [Mathieu Remazeilles]({{site.url}}/remazeillesm)
-- [Miguel Ruiz-Granda]({{sire.url}}/ruizgrandam)
-- [Patricio Vielva]({{site.url}}/vielvap)
-
-<h4>Related collaborations we are part of</h4>
-
-- [CMB-S4]({{site.url}}/collabs#CMB-S4)
-- [LiteBIRD]({{site.url}}/collabs#litebird)
-
-## CMB Secondary Anisotropies and Extragalactic Foregrounds
-
-WE CAN MERGE THIS WITH CMB! (but I understand them as different)
+This research line combines theoretical modeling, data analysis, and participation in leading international experiments, ensuring a lasting impact on cosmology and astrophysics.
 
 <h4>Researchers involved</h4>
 
@@ -58,6 +39,7 @@ WE CAN MERGE THIS WITH CMB! (but I understand them as different)
 - [Laura Castelló]({{site.url}}/castellol)
 - [Jyothis Chandran]({{site.url}}/chandranj)
 - [Marcos Cruz]({{sire.url}}/cruzm)
+- [Christian Gimeno-Amo]({{sire.url}}/gimenoc)
 - [Diego Herranz]({{sire.url}}/herranzd)
 - [Md Ishaque Khan]({{sire.url}}/khanmi)
 - [Enrique Martínez-González]({{site.url}}/martineze)
