@@ -113,9 +113,18 @@ BLURB ABOUT GAL EVOL AND FORM
 - [MeerKLASS]({{site.url}}/collabs#meerklass)
 - [SKA]({{site.url}}/collabs#ska)
 
+<p style="text-align:center; margin: 20px 0 -20px 0;">
+  <img src="{{site.url}}/assets/imgs/Lines/lensing.png"
+       style="max-width:100%; height:auto; width:800px;">
+</p>
+
 ## Gravitational Lensing
 
-BLURB ABOUT GRAV LENS
+Gravitational lensing is produced by the warping of space-time around massive structures. The group specialises in gravitational lensing around the most massive structures in the universe, Galaxy Clusters. We take advantage of the best observatories on Earth (actually in orbit around Earth and at Lagrange point L2), namely the Hubble Space Telescope (HST) and James Webb Space Telescope (JWST) where we have secured over 500 hours of observing time together with our collaborators. The group has developed its own techniques and algorithms to reconstruct the distribution of matter (mostly dark matter) in galaxy clusters using the gravitational lensing effect. In addition, we use this effect to constrain the cosmological model via the difference time of arrival of the light from different counterimages (or time delays) of the same background object, usually a quasar or a supernova. The gravitational lensing group at IFCA has used time delays to constrain the expansion rate of the universe, of Hubble constant, through this technique. 
+
+The next years will witness a rapid evolution in this field as new data from JWST, Euclid and Rubin will provide tens of new time delay measurements which will be used to reach a competitive percent-level precision in the measurement of the Hubble constant with this technique. The group at IFCA is also making leading contributions in the are of microlensing of distant stars (z>0.5), and has contributed to the discovery of most of the lensed stars beyond z=0.5 known to date (Icarus, Warhol, Spock, Quyllur, Godzilla, Mothra, Earendel, Hedorah, …). Our group uses changes in the observed light from these stars to trace small perturbations in the distribution of dark matter. 
+
+Within Euclid we are involved with the analysis of new gravitational lenses (both on galactic scales and galaxy clyster scales). We are also involved with other ongoing surveys such as the Spanish lead J-PAS that wll discover new galaxy clusters and will play a crucial role at identifying members of the clysters given the high-quality photometric redshifts obtained by J-PAS. 
 
 <h4>Researchers involved</h4>
 
@@ -138,8 +147,11 @@ BLURB ABOUT GRAV LENS
 
 BLURB ABOUT GRAV WAVES
 
+We have also made important contributions to the use of gravitational waves as probe of dark matter on small scales, a field that will reach maturity with the Einstein Telescope. 
+
 <h4>Researchers involved</h4>
 
+- [José María Diego]({{site.url}}/diegojm)
 - [Bradley J. Kavanagh]({{site.url}}/kavanaghbj)
 
 <h4>Related collaborations we are part of</h4>
