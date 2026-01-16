@@ -258,24 +258,7 @@ IFCA researchers involved in MeerKLASS focus on the theoretical modeling of the 
 
 <p style="float: left; minmax(440px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/quijote.jpg" style="width:400px;height:300px;"></p>
 
-Here there is some description 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+The QUIJOTE (Q-U-I Joint Tenerife) CMB experiment, located at the Teide Observatory in Tenerife, is a collaboration between the IAC, IFCA, DICOM (UC) and IDOM in Spain, and the Universities of Manchester and Cambridge in the UK. One of its main goals is to characterize the polarization of the CMB and other Galactic and extragalactic processes in the 10–40 GHz range at angular scales larger than 1 degree. The QUIJOTE measurements will complement at low frequency those obtained by Planck satellite, and will be used to correct for the galactic contamination in polarization. Its first instrument, the Multi-Frequency Instrument (MFI, operating at 10–20 GHz), has already delivered its first data release of maps and associated products. MFI is now being replaced by MFI2, a more sensitive instrument covering the same frequency range but equipped with a digital FPGA-based backend to mitigate radio-frequency interference (RFI) from satellite constellations. In addition, the hybrid TFGI instrument, which combines pixels from QUIJOTE’s second and third instruments (at 30 and 40 GHz) has already conducted scientific operations with a limited number of detectors and is planned to resume expanded operations in 2026. As well as exploiting data from QUIJOTE, we are involved in the calibration and commissioning of the TFGI, as well as contributing to the development of a new Ninety-Gigahertz Instrument (NGI)
 
 <h4>Researchers involved</h4>
 

@@ -70,7 +70,15 @@ BLURB ABOUT COSMO TENSIONS
        style="max-width:100%; height:auto; width:750px;">
 </p>
 
-BLURB ABOUT DM!!
+The nature of Dark Matter (DM) remains one of the greatest unsolved mysteries of modern physics. The group is involved in a number of initiatives to shed light on the nature of Dark Matter, across scales from the cosmological to the microscopic. Studies of the CMB  and large scale structure allow us to constrain the total abundance and distribution of DM in our Universe, while we also explore how the interactions of DM may show up in cosmological observables. 
+
+With gravitational lensing we can map out the distribution of DM in galaxy clusters, allowing us to search for DM substructures, and providing us with a means of distinguishing between particle DM, wave-like DM or DM in the form of compact objects such as primordial black holes. We have also made important contributions to the use of gravitational waves as probe of dark matter on small scales, a field that will reach maturity with the Einstein Telescope. 
+
+On the scale of galaxies, the properties of DM may affect the nature and number of substructures such as streams and satellite galaxies. Our group leads the ARRAKIHS mission, a planned space telescope which will image nearby low-surface brightness galaxies at unprecedented sensitivity to provide the definitive test of the nature of DM. 
+
+In collaboration with the high energy physics group, the cosmology group also contributes to direct searches for Dark Matter in the lab, including the DAMIC-M experiment, which searches for DM using low-background Charged Coupled Deviced (CCDs) as sensitive ionisation detectors. IFCA also contributes to the development of CADEx, a next generation search for dark matter axions at W-band frequencies. 
+
+These observational and experimental probes of DM are complemented by phenomenological studies to understand how possible signals of DM may show up in these experiments and what we may learn about DM if it does. 
 
 <h4>Researchers involved</h4>
 
@@ -79,6 +87,7 @@ BLURB ABOUT DM!!
 - [Francisco Javier Casas]({{site.url}}/casasfj)
 - [Laura Castelló]({{site.url}}/castellol)
 - [José María Diego]({{site.url}}/diegojm)
+- [Helena Domínguez-Sánchez]({{site.url}}/dominguezh)
 - [Rafael Guzmán]({{site.url}}/guzmanr)
 - [Diego Herranz]({{site.url}}/herranzd)
 - [Pratibha Jangra]({{site.url}}/jangrap)
@@ -94,6 +103,7 @@ BLURB ABOUT DM!!
 - [ARRAKIHS]({{site.url}}/collabs#arrakihs)
 - [CADEx]({{site.url}}/collabs#CADEx)
 - [DAMIC-M]({{site.url}}/collabs#damic-m)
+- [Einstein Telescope]({{site.url}}/collabs#einstein-telescope)
 
 
 ## Galaxy Formation and Evolution
@@ -138,28 +148,6 @@ Within Euclid we are involved with the analysis of new gravitational lenses (bot
 - [EUCLID]({{site.url}}/collabs#euclid)
 - [J-PAS]({{site.url}}/collabs#j-pas)
 - [JWST & HST]({{site.url}}/collabs#jwst-&-hst)
-
-
-## Gravitational Waves
-
-<p style="text-align:center; margin: 0 0;">
-  <img src="{{site.url}}/assets/imgs/Lines/gws.jpg"
-       style="max-width:100%; height:auto; width:750px;">
-</p>
-
-BLURB ABOUT GRAV WAVES
-
-We have also made important contributions to the use of gravitational waves as probe of dark matter on small scales, a field that will reach maturity with the Einstein Telescope. 
-
-<h4>Researchers involved</h4>
-
-- [José María Diego]({{site.url}}/diegojm)
-- [Bradley J. Kavanagh]({{site.url}}/kavanaghbj)
-
-<h4>Related collaborations we are part of</h4>
-
-- [Lunar Gravitational Wave Antenna]({{site.url}}/collabs#lunar-gravitational-wave-antenna)
-- [LISA]({{site.url}}/collabs#lisa)
 
 
 ## Large-Scale Structure
