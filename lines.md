@@ -7,7 +7,6 @@ The interests of the members of the Cosmology Group at IFCA cover a wide variety
 # Research Lines
 
 - [Cosmic Microwave Background]({{site.url}}/lines#cosmic-microwave-background)
-- [Cosmological Tensions]({{site.url}}/lines#cosmological-tensions)
 - [Dark Matter]({{site.url}}/lines#dark-matter)
 - [Galaxy Formation and Evolution]({{site.url}}/lines#galaxy-formation-and-evolution)
 - [Gravitational Lensing]({{site.url}}/lines#gravitational-lensing)
@@ -50,16 +49,6 @@ This research line combines theoretical modeling, data analysis, and participati
 - [CMB-S4]({{site.url}}/collabs#CMB-S4)
 - [LiteBIRD]({{site.url}}/collabs#litebird)
 - [QUIJOTE]({{site.url}}/collabs#quijote)
-
-## Cosmological Tensions
-
-BLURB ABOUT COSMO TENSIONS
-
-<h4>Researchers involved</h4>
-
-- [José Luis Bernal]({{site.url}}/bernaljl)
-
-
 
 ## Dark Matter
 
@@ -106,11 +95,22 @@ These observational and experimental probes of DM are complemented by phenomenol
 
 ## Galaxy Formation and Evolution
 
-BLURB ABOUT GAL EVOL AND FORM
+<p style="text-align:center; margin: 20px 0 0 0;">
+  <img src="{{site.url}}/assets/imgs/Lines/galaxy.jpg"
+       style="max-width:100%; height:auto; width:750px;">
+</p>
+
+Understanding how galaxies form and evolve across cosmic time is a central goal of modern cosmology. At the Instituto de Física de Cantabria (IFCA), our research combines theoretical modeling, numerical simulations, and multi-wavelength observations to study the physical processes that drive galaxy assembly, star formation, and structural transformation, as well as their connection to dark matter and the large-scale structure of the Universe. Particular emphasis is placed on the interplay between baryonic physics and environment, from the earliest phases of galaxy formation to the low-redshift Universe.
+
+IFCA plays a leading role in several major international surveys and space missions. We are actively involved in Euclid, exploiting its high-precision weak lensing and clustering measurements to link galaxy evolution with cosmic structure growth. Our work is complemented by spectroscopic and imaging data from HETDEX and J-PAS, which provide unprecedented constraints on galaxy properties and their evolution over large cosmological volumes. At higher spatial resolution and longer look-back times, observations from JWST and HST allow us to probe the internal structure and stellar populations of galaxies across a wide range of redshifts. In addition, IFCA is the lead node of the international collaboration of ARRAKIHS, an ESA-led mission dedicated to unveiling the low-surface-brightness Universe and the faint outskirts of galaxies, providing unique insights into galaxy assembly and accretion processes.
+
+In the radio domain, IFCA researchers contribute to surveys such as MeerKLASS and prepare for the transformative science of the Square Kilometre Array Observatory (SKAO). These facilities enable detailed studies of neutral hydrogen, star formation, and feedback processes, offering a complementary view of galaxy evolution beyond the optical and infrared regimes. By combining data from these flagship facilities, IFCA aims to build a coherent, multi-scale picture of galaxy formation and evolution within the cosmological framework.
+
 
 <h4>Researchers involved</h4>
 
 - [José Luis Bernal]({{site.url}}/bernaljl)
+- [José María Diego]({{site.url}}/diegojm)
 - [Helena Domínguez-Sánchez]({{site.url}}/dominguezh)
 
 <h4>Related collaborations we are part of</h4>
@@ -150,7 +150,18 @@ Within Euclid we are involved with the analysis of new gravitational lenses (bot
 
 ## Large-Scale Structure
 
-BLURB ABOUT LSS
+<p style="text-align:center; margin: 20px 0 0 0;">
+  <img src="{{site.url}}/assets/imgs/Lines/lss.jpg"
+       style="max-width:100%; height:auto; width:750px;">
+</p>
+
+The large-scale structure of the Universe refers to the distribution of matter at late times, when gravitational evolution has already pushed cosmological perturbations to the nonlinear regime and the cosmic web has formed. These perturbation undergo gravitational collapse, and dark matter halos form. In them, galaxies and gas cluster, becoming the baryonic part of the large-scale structure. 
+
+The way in which matter clusters in the Universe depend on two things: the initial conditions and the physical laws that drive their evolution. Given a cosmological model, we can predict the statistics that describe the matter distribution. Therefore, we can use matter distribution to learn about these two key points of our understanding of the Universe. However, the vast majority of matter is dark matter, which we cannot observe; the only probe of the large-scale structure that we can directly connect to the matter distribution is gravitational lensing (since it depends directly on the gravitational potential). 
+
+Nonetheless, there are many other ways that we can probe the matter distribution, using so-called tracers, including galaxies positions, integrated intensities, effects in the CMB through the secondary anisotropies, etc. They trace the large-scale structure in different ways, connecting it also with different baryonic physics. These features also help to discriminate between gravitational evolution and baryonic feedback at small scales, a regime that is already more complicated due to nonlinear clustering. There are many theoretical and observational efforts to improve our understanding of this regime to increase the scientific return from observations. 
+
+At IFCA, we work on improving observational maps of large-scale structure tracers, cleaning from foregrounds and contaminants of maps of integrated intensities and CMB secondary anisotropies. We also work on theoretical developments to improve the modeling and pipelines to be applied to such maps, so that we can take the most from them and use them to shed light in the biggest questions in cosmology.
 
 <h4>Researchers involved</h4>
 
@@ -183,8 +194,6 @@ Line-intensity mapping (LIM) is a technique that employs low-aperture instrument
 Since overall fluxes are measured, LIM is both sensitive to the large-scale matter distribution and the astrophysical processes that drive the emission of each line in atomic and molecular gas clouds within and around galaxies. Thus, targetting several spectral lines provides a more complete picture of the interstellar and intergalactic media. In summary, studying intensity fluctuations with LIM promises to deepen our understanding of various questions related to galaxy formation and evolution, cosmology, and fundamental physics, while being complementary to other techniques and cosmological probes. Unfortunately, the main benefits of LIM also come with the drawback of foreground contamination.
 
 Besides general theoretical work improving the formalism  to measure summary statistics from the line-intensity maps and get a theoretical prediction and developing new science cases, we work on foreground mitigation in order to obtain clean observations free of foreground contaminants.
-
-
 
 <h4>Researchers involved</h4>
 
