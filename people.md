@@ -28,7 +28,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
   <a href="{{site.url}}/diegojm"><img src="{{site.url}}/assets/imgs/People/diegojm.png" style="width:185px;height:215px;"></a><br><a href="{{site.url}}/diegojm"><b>José María Diego</b></a>
   </section>
   <section class="card">
-  <a href="{{site.url}}/guzmanr"><img src="{{site.url}}/assets/imgs/People/guzmanr.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/guzmanr"><b>Rafael Guzmán</b></a>
+  <a href="{{site.url}}/guzmanr"><img src="{{site.url}}/assets/imgs/People/guzmanr.jpg" style="width:215px;height:215px;"></a><br><a href="{{site.url}}/guzmanr"><b>Rafael Guzmán</b></a>
   </section>
   <section class="card">
   <a href="{{site.url}}/herranzd"><img src="{{site.url}}/assets/imgs/People/herranzd.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/herranzd"><b>Diego Herranz</b><br><br></a>
