@@ -214,6 +214,7 @@ LiteBIRD represents the next step after COBE, WMAP, and Planck, offering unprece
 
 - [Rita Belén Barreiro]({{site.url}}/barreirorb)
 - [Francisco Javier Casas]({{site.url}}/casasfj)
+- [Marcos Cruz]({{site.url}}/cruzm)
 - [Laura Castelló]({{site.url}}/castellol)
 - [Christian Gimeno-Amo]({{site.url}}/gimenoc)
 - [Diego Herranz]({{sire.url}}/herranzd)
@@ -222,6 +223,7 @@ LiteBIRD represents the next step after COBE, WMAP, and Planck, offering unprece
 - [Mathieu Remazeilles]({{site.url}}/remazeillesm)
 - [Miguel Ruiz-Granda]({{site.url}}/ruizgrandam)
 - [Patricio Vielva]({{site.url}}/vielvap)
+- [Dheeraj Vittal Shenoy]({{site.url}}/vittalsd)
 
 
 ## MeerKLASS
