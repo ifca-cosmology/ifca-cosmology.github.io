@@ -77,8 +77,22 @@ Seminars part of the [Master in Particle Physics and Physics of the Cosmos](http
 
 
 # Outreach Events
-Outreach events organized or participated by members of the cosmology group. 
+Everyone at the Cosmology group at IFCA is very committed to outreach and share our work and research with every audience. Here you can see the activities organized by and participated directly by our members. 
 
+
+
+We also participate in the activities organized by IFCA. The IFCA outreach unit is very active, organizing several activities like:
+
+- [Talks at Ateneo Santander](https://ifca.unican.es/es-es/educacion-y-divulgacion/charlas-en-el-ateneo): Rigurously but accessible, there are public talks every year about different now relevant topics from a scientific perspective. 
+- [Scientific Coffee](https://ifca.unican.es/es-es/educacion-y-divulgacion/cafe-cientifico): We bring science to general public in an informal setting over coffee in el Café de las Artes.
+- [Expanding Science](https://ifca.unican.es/es-es/educacion-y-divulgacion/expandiendo-la-ciencia): Outreach talks in schools and highschools in Cantabria covering the topics that scientists at IFCA work in.
+- [Open doors](https://ifca.unican.es/es-es/educacion-y-divulgacion/jornadas-de-puertas-abiertas): This event aims to bring our work closer to primary and secondary school students, who visit our facilities and learn about our research.
+- [Science week](https://ifca.unican.es/es-es/educacion-y-divulgacion/semana-de-la-ciencia): Outreach activity simultaneous with many other scientific and teaching institutions. At IFCA, we organize visits for students and astronomical observations.
+- [European Night of Researchers](https://ifca.unican.es/es-es/educacion-y-divulgacion/noche-de-los-investigadores): IFCA and the University of Cantabria participate in this European event.
+- Master classes of [particle physics](https://ifca.unican.es/es-es/educacion-y-divulgacion/clases-magistrales-de-fisica-de-particulas) and [astrophysics](https://ifca.unican.es/es-es/educacion-y-divulgacion/clases-magistrales-de-astrofisica)
+- [Special outreach events](https://ifca.unican.es/es-es/educacion-y-divulgacion/11febrero) around February 11th, the international day of women in science.
+
+Other activities and news at IFCA are advertised in the social media of IFCA.
 
 # Conferences
 Recent and upcoming conferences and workshops organized by members of the cosmology group. 
