@@ -7,12 +7,10 @@ The interests of the members of the Cosmology Group at IFCA cover a wide variety
 # Research Lines
 
 - [Cosmic Microwave Background]({{site.url}}/lines#cosmic-microwave-background)
-- [CMB Secondary Anisotropies and Extragalactic Foregrounds]({{site.url}}/lines#cmb-secondary-anisotropies-and-extragalactic-foregrounds)
 - [Cosmological Tensions]({{site.url}}/lines#cosmological-tensions)
 - [Dark Matter]({{site.url}}/lines#dark-matter)
 - [Galaxy Formation and Evolution]({{site.url}}/lines#galaxy-formation-and-evolution)
 - [Gravitational Lensing]({{site.url}}/lines#gravitational-lensing)
-- [Gravitational Waves]({{site.url}}/lines#gravitational-waves)
 - [Large-Scale Structure]({{site.url}}/lines#large-scale-structure)
 - [Line-Intensity Mapping]({{site.url}}/lines#line-intensity-mapping)
 

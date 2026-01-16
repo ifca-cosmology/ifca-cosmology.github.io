@@ -11,12 +11,12 @@ The [research lines]({{site.url}}/lines) explored by the members of the Cosmolog
 - [BISOU]({{site.url}}/collabs#bisou)
 - [CADEx]({{site.url}}/collabs#cadex)
 - [DAMIC-M]({{site.url}}/collabs#damic-m)
+- [Einstein Telescope]({{site.url}}/collabs#einstein-telescope)
 - [EUCLID]({{site.url}}/collabs#euclid)
 - [HETDEX]({{site.url}}/collabs#hetdex)
 - [J-PAS]({{site.url}}/collabs#j-pas)
 - [JWST & HST]({{site.url}}/collabs#jwst-&-hst)
 - [LiteBIRD]({{site.url}}/collabs#litebird)
-- [LISA]({{site.url}}/collabs#lisa)
 - [MeerKLASS]({{site.url}}/collabs#meerklass)
 - [QUIJOTE]({{site.url}}/collabs#quijote)
 - [Simons Observatory]({{site.url}}/collabs#simons-observatory)
@@ -102,6 +102,21 @@ IFCA's contribution to DAMIC-M includes members of both the Cosmology group and 
 
 <h4>Researchers involved</h4>
 
+- [Bradley J. Kavanagh]({{site.url}}/kavanaghbj)
+
+## Einstein Telescope
+
+<p style="float: left; minmax(540px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/et.jpg" style="width:400px;height:240px;"></p>
+
+[Einstein Telescope (ET)](https://www.et-gw.eu) is a proposed, next-generation underground observatory for detecting gravitational waves (GWs). ET will achieve a greatly improved sensitivity by increasing the size of the interferometer from the 3km arm length of the Virgo detector to 10km, and by implementing a series of new technologies, with observations planned to begin in the 2030s. 
+
+ET will make it possible, for the first time, to explore the Universe through gravitational waves along its cosmic history up to the cosmological dark ages, shedding light on open questions of fundamental physics and cosmology. It will probe the physics near black-hole horizons (from tests of general relativity to quantum gravity), help understanding the nature of dark matter (such as primordial BHs, axion clouds, dark matter accreting on compact objects), and the nature of dark energy and possible modifications of general relativity at cosmological scales. Exploiting the ET sensitivity and frequency band, the entire population of stellar and intermediate mass black holes will be accessible over the entire history of the Universe, enabling to understand their origin (stellar versus primordial), evolution, and demography.
+
+Within the group, our focus is on building the science case for ET and understanding the nature of possible GW signals. In particular, this includes understanding the possible gravitational lensing of GWs, potential signals from primordial black holes, and the impact of DM environments on gravitational waveforms. 
+
+ <h4>Researchers involved</h4>
+ 
+- [José María Diego]({site.url}}/diegojm)
 - [Bradley J. Kavanagh]({{site.url}}/kavanaghbj)
 
 ## EUCLID 
@@ -209,34 +224,6 @@ LiteBIRD represents the next step after COBE, WMAP, and Planck, offering unprece
 - [Patricio Vielva]({{site.url}}/vielvap)
 
 
-## LISA
-
-<p style="float: left; minmax(350px,1fr); margin:20px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/lisa.jpg" style="width:310px;height:300px;"></p>
-
-HERE THERE'S SOME BLURB FOR LISA
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<h4>Researchers involved</h4>
-
-- [Bradley J. Kavanagh]({{site.url}}/kavanaghbj)
-
-
 ## MeerKLASS
 
 <p style="float: left; minmax(540px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/meerklass.jpg" style="width:500px;height:250px;"></p>
@@ -283,7 +270,7 @@ SO will deploy over 60,000 superconducting transition-edge sensor (TES) bolomete
 
 ## SKA
 
-<p style="float: left; minmax(840px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/ska.jpg" style="width:800px;height:150px;"></p>
+<p style="float: left; minmax(840px,1fr); margin:10px; text-align: center;"><img src="{{site.url}}/assets/imgs/Collabs/ska.jpg" style="width:700px;height:130px;"></p>
 
 The IFCA researchers contributing to the SKAO are focused on two main task forces. One the one hand, they are developing strategies for foreground mitigation, which will be key to unlock all the SKAO potential, especially for high redshifts and science related to the epoch of reionization. On the other hand, they are focused on the modeling of the signal and the development of science cases for the HI galaxy survey, radio-continuum galaxy survey, and 21-cm low-redshift line-intensity mapping survey.
 
