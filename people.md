@@ -74,7 +74,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
   <a href="{{site.url}}/khanmi"><img src="{{site.url}}/assets/imgs/People/khanmi2.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/khanmi"><b>Md Ishaque Khan </b></a>
   </section>
   <section class="card">
-  <a href="{{site.url}}/longeardn"><img src="{{site.url}}/assets/imgs/People/longeardn.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/longeardn"><b>Nicolas Longeard </b></a>
+  <a href="{{site.url}}/longeardn"><img src="{{site.url}}/assets/imgs/People/longeardn.jpeg" style="width:215px;height:215px;"></a><br><a href="{{site.url}}/longeardn"><b>Nicolas Longeard </b></a>
   </section>
   <section class="card">
   <a href="{{site.url}}/scarcellaf"><img src="{{site.url}}/assets/imgs/People/scarcellaf.jpeg" style="width:170px;height:215px;"></a><br><a href="{{site.url}}/scarcellaf"><b>Francesca Scarcella </b></a>
