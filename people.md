@@ -131,6 +131,9 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
   <a href="{{site.url}}/casaponsab"><img src="{{site.url}}/assets/imgs/People/casaponsab.png" style="width:185px;height:215px;"></a><br><a href="{{site.url}}/casaponsab"><b>Biuse Casaponsa </b></a>
   </section>
   <section class="card">
+  <a href="{{site.url}}/marcosa"><img src="{{site.url}}/assets/imgs/People/marcosa.png" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/marcosa"><b>Airam Marcos-Caballero</b></a>
+  </section>
+  <section class="card">
   <a href="{{site.url}}/villafanej"><img src="{{site.url}}/assets/imgs/People/villafanej.jpg" style="width:170px;height:215px;"></a><br><a href="{{site.url}}/villafanej"><b>Juan Villafañe </b></a>
   </section>
 </div>
