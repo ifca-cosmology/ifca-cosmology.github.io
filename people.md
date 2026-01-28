@@ -125,16 +125,24 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 <center>
 <div class="movegrid">
   <section class="card">
-  <a href="{{site.url}}/carcedos"><img src="{{site.url}}/assets/imgs/People/carcedos.jpg" style="width:161px;height:215px;"></a><br><a href="{{site.url}}/carcedos"><b>Sandra Carcedo Estefanía </b></a>
+  <a href="{{site.url}}/carcedos"><img src="{{site.url}}/assets/imgs/People/carcedos.jpg" style="width:161px;height:215px;"></a><br><a href="{{site.url}}/carcedos"><b>Sandra Carcedo Estefanía (*) </b></a>
   </section>
   <section class="card">
   <a href="{{site.url}}/casaponsab"><img src="{{site.url}}/assets/imgs/People/casaponsab.png" style="width:185px;height:215px;"></a><br><a href="{{site.url}}/casaponsab"><b>Biuse Casaponsa </b></a>
   </section>
   <section class="card">
-  <a href="{{site.url}}/marcosa"><img src="{{site.url}}/assets/imgs/People/marcosa.png" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/marcosa"><b>Airam Marcos-Caballero</b></a>
+  <a href="{{site.url}}/marcosa"><img src="{{site.url}}/assets/imgs/People/marcosa.png" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/marcosa"><b>Airam Marcos-Caballero (*)</b></a>
   </section>
   <section class="card">
   <a href="{{site.url}}/villafanej"><img src="{{site.url}}/assets/imgs/People/villafanej.jpg" style="width:170px;height:215px;"></a><br><a href="{{site.url}}/villafanej"><b>Juan Villafañe </b></a>
   </section>
 </div>
+</center>
+
+(*) IFCA Technical Staff
+
+<center>
+
+<a href="{{site.url}}/people#faculty">🔼 Back to top</a>
+
 </center>

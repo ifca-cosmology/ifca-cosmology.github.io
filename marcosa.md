@@ -19,6 +19,8 @@ I have contributed to major international collaborations, including Planck, J-PA
 
 - Early-Universe Physics
 - CMB anisotropies and polarization
+- Dark matter
+- Large-scale structure
 
 
 ### Collaborations & Missions
@@ -26,6 +28,7 @@ I have contributed to major international collaborations, including Planck, J-PA
 - QUIJOTE
 - LiteBIRD
 - J-PAS
+
 
 <br>
 <br>

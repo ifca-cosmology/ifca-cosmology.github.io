@@ -107,3 +107,13 @@ Recent and upcoming conferences and workshops organized by members of the cosmol
 18-20 November 2025, Santander <a href="https://www.fundacion.udc.es/cosmology%2Dconference%2Dcoruna%2D2026/index.asp?id=90&idioma=EN">Conference webpage</a>
 </details>
 
+
+<center>
+
+<br>
+<br>
+<br>
+<br>
+<a href="{{site.url}}/activities#activities">🔼 Back to top</a>
+
+</center>

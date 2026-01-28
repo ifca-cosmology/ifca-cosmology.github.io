@@ -14,3 +14,4 @@ Text of news
 
 
 
+<a href="{{site.url}}/news#latest-news-of-the-ifca-cosmology-group">🔼 Back to top</a>
