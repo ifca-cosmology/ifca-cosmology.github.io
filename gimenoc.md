@@ -6,7 +6,7 @@ layout: default
 
 <p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/gimenoc.jpg" style="width:250px;height:270px;"> <br> mail: gimenoc(at)ifca.unican.es <br> Office: 124</p>
 
-# NAME
+# Christian Gimeno-Amo
 
 
 I am Christian, a former PhD student in cosmology and currently working within the RadioForegroundsPlus and LiteBIRD collaborations. My current activities span several projects, ranging from the construction of a radio-source catalog using RadioForegroundsPlus data to studies of half-wave plate systematics—particularly intensity-to-polarization (I→P) leakage—and their impact on the calibration of polarization angles for LiteBIRD.
