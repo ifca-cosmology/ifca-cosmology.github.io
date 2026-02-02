@@ -97,6 +97,9 @@ Other activities and news at IFCA are advertised in the social media of IFCA.
 # Conferences
 Recent and upcoming conferences and workshops organized by members of the cosmology group. 
 
+- <h4>V ARRAKIHS Consortium Meeting</h4>
+18-20 May 2026, Santander: Conference Webpage TBD
+
 - <h4>New Frontiers in Cosmology</h4>
 10-14 August 2026, A Coruña:
 [Conference Webpage](https://www.fundacion.udc.es/cosmology%2Dconference%2Dcoruna%2D2026/index.asp?id=90&idioma=EN)
