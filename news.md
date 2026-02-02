@@ -6,12 +6,13 @@ Here you can check the latest news and announcements involving members of the co
 
 # Latest news of the IFCA Cosmology group
 
+<!--
 ### Example of news
 
 <p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/News/news.jpg" style="width:240px;height:300px;"> Caption of picture</p> 
 
 Text of news 
 
-
+--!>
 
 <a href="{{site.url}}/news#latest-news-of-the-ifca-cosmology-group">🔼 Back to top</a>
