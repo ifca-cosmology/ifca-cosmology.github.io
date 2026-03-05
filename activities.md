@@ -14,10 +14,10 @@ layout: default
 Specialized seminars organized by the cosmology group covering the research interests of the group. Given by invited speakers. Click on the talk title for abstract and further details.
 
 <details class="toggle">
-  <summary>11/03/2026, TBD (Azadeh Moradinezhad, LapTh)</summary>
+  <summary>11/03/2026, Probing Parity with Composite-Field Galaxy Correlators (Azadeh Moradinezhad, LapTh)</summary>
 	11:30, 11/03/2026 - Sala de Claustros
 	<br>
-	<i>Abstract</i>: TBC
+	<i>Abstract</i>: Detecting parity violation on cosmological scales would provide a striking clue to new physics in late or early Universe. Large-scale structure surveys offer the statistical power required to test such signatures. For scalar observables such as galaxy clustering, the leading parity-sensitive statistic is the trispectrum, whose high dimensionality makes direct measurement and noise estimation challenging. It is therefore desirable to construct lower-dimensional observables that retain sensitivity to parity-violating trispectrum signals. In this talk, I introduce a class of such observables, referred to as parity-odd kurto spectra, which arise as power spectra of composite fields constructed from the galaxy overdensity field. These statistics compress trispectrum information into one-dimensional pseudo–power spectra that can be measured using standard large-scale structure techniques. I present tests of the estimators on N-body simulations and discuss the dominant sources of noise affecting the measurements. Finally, I show results from analyses of BOSS and DESI galaxy samples using parity-odd kurto spectra and compare them with recent trispectrum analyses of the same datasets.
 	<br>
 </details>
 
