@@ -6,6 +6,14 @@ Here you can check the latest news and announcements involving members of the co
 
 # Latest news of the IFCA Cosmology group
 
+### A Sea of Light: HETDEX Astronomers Reveal Hidden Structures in the Young Universe
+
+<p style="float: left; width: 40%; margin:40px"><img src="{{site.url}}/assets/imgs/News/Pie de foto 2. Sección del mapa creado a partir de la intensidad de Lyman-alfa.jpeg" style="width:450px;height:250px;"> Section of the Line Intensity Map created by charting the distribution and concentration of excited hydrogen (via the Lyman alpha wavelength) in the universe ten billion years ago. The stars mark where HETDEX has found galaxies. The inset simulates the structure present in this map once it is zoomed in on and background noise is removed from the data. [Credit: Maja Lujan Niemeyer/Max Planck Institute for Astrophysics/HETDEX, Chris Byrohl/Stanford University/HETDEX] </p>
+ 
+Astronomers with the [Hobbly-Eberly Telescope Dark Energy Experiment (HETDEX)](https://hetdex.org/) have used data from the project to make the largest, most accurate 3D map yet of the Lyman-alpha emission in the early universe, 9 billion to 11 billion years ago. This work, [published in the Astrophysical Journal](https://inspirehep.net/files/fc65f398828bd2f55bfc8748568e8e14) was the first result of the Lyman-alpha line-intensity mapping survey with HETDEX, for which all of the Lyman-alpha photons were collected and quantified thanks to the cross correlation with the detected Lyman-alpha Emitters (LAEs) from the HETDEX galaxy survey. This is so far the highest-significant line-intensity mapping measurement to date, establishing the path for future measurements. At IFCA, [José Luis Bernal]({{site.url}}/bernaljl) is involved in HETDEX in the LIM survey. 
+
+You can find more information in the [official press release](https://hetdex.org/a-sea-of-light-hetdex-astronomers-reveal-hidden-structures-in-the-young-universe/) and its [adaptation to Spanish at IFCA's webpage](https://web.unican.es/noticias/Paginas/2026/03/IFCA-estudio-universo-joven.aspx).
+
 
 ### Cosmic Fireworks to Solve the Hubble Constant Tension
 19 February 2026
