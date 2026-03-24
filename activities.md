@@ -31,10 +31,10 @@ Specialized seminars organized by the cosmology group covering the research inte
 
 
 <details class="toggle">
-  <summary>22/04/2026, TBD (Henrique Rubira, LMU and Cambridge University)</summary>
+  <summary>22/04/2026, Novel results in perturbation theory for LSS (Henrique Rubira, LMU and Cambridge University)</summary>
 	11:30, 22/04/2026 - Sala de Claustros
 	<br>
-    <i>Abstract</i>: TBC
+    <i>Abstract</i>: Major improvements in the theoretical understanding of LSS have been possible due to the effective field theory approach. After an overview of the perturbation theory applications for LSS,  I will discuss how to go beyond the one-loop calculation, presenting novel two-loop results and their information content (both for clustering and lensing). I will also show how to extract information from higher-loop orders using renormalization group equations.
 	<br>
 </details>
 
@@ -103,6 +103,9 @@ Recent and upcoming conferences and workshops organized by members of the cosmol
 - <h4>New Frontiers in Cosmology</h4>
 10-14 August 2026, A Coruña:
 [Conference Webpage](https://www.fundacion.udc.es/cosmology%2Dconference%2Dcoruna%2D2026/index.asp?id=90&idioma=EN)
+
+- <h4>Gravitational Lensing in Galaxy Clusters in the JWST Era</h4>
+10-14 August, Santander: [Conference Webpage](https://sites.google.com/view/lensingsolareclipse26)
 
 <details class="toggle">
   <summary> Click here to see a list of past conferences and workshops organized by members of the group </summary>
