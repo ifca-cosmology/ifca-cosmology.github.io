@@ -22,10 +22,10 @@ Specialized seminars organized by the cosmology group covering the research inte
 </details>
 
 <details class="toggle">
-  <summary>08/04/2026, TBD (Boryana Hadzhiyska, Cambridge University)</summary>
+  <summary>08/04/2026, Tracing the Hidden Universe: An Integrated View of Baryons Across Cosmic Time (Boryana Hadzhiyska, Cambridge University)</summary>
 	11:30, 08/04/2026 - Sala de Claustros
 	<br>
-    <i>Abstract</i>: TBC
+    <i>Abstract</i>: Understanding how galaxies form and evolve requires connecting two traditionally separate frontiers of astrophysics: the physics of baryons that shape stars, gas, and black holes, and the cosmological framework that governs dark matter and dark energy. Over the past decade, a new generation of observations: spanning imaging and spectroscopic surveys, cosmic microwave background maps, and X-ray data, has begun to reveal how these components fit together into a single, coherent picture of structure formation. In this talk, I will discuss recent progress toward building an integrated view of baryons across cosmic time: how the gas that fuels galaxies and black holes traces, cools, and feeds back into the cosmic web. I will show how combining cosmological and astrophysical probes, from large-scale galaxy redshift surveys like DESI and photometric experiments like Rubin Observatory, to CMB secondary anisotropies (the thermal and kinematic Sunyaev–Zel’dovich effects), allows us to directly map where the Universe’s ordinary matter resides and how energetic processes such as supermassive black hole feedback redistribute it. These advances not only illuminate key aspects of galaxy formation and evolution but also have profound implications for cosmology. The influence of baryons on the distribution of matter represents one of the dominant sources of uncertainty in weak lensing and clustering measurements, and hence in our efforts to pin down the nature of dark matter and dark energy. By linking multi-wavelength observations with next-generation simulations, we can now begin to bridge this gap, connecting the smallest scales of galaxy formation with the largest scales of the cosmic web, and turning the messy physics of baryons into a new window on fundamental physics.
 	<br>
 </details>
 
