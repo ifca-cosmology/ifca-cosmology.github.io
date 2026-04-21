@@ -39,10 +39,10 @@ Specialized seminars organized by the cosmology group covering the research inte
 </details>
 
 <details class="toggle">
-  <summary>06/05/2026, TBD (Martinne Lokken, IFAE)</summary>
+  <summary>06/05/2026, Shaping the cosmic web: how cosmology and AGN feedback affect the late-time distribution of hot gas (Martinne Lokken, IFAE)</summary>
 	11:30, 06/05/2026 - Sala de Claustros
 	<br>
-	<i>Abstract</i>: TBC
+	<i>Abstract</i>: Today’s cosmic web of gas, galaxies, and dark matter was imprinted in the early universe, formed according to the balance of the cosmic components, and reshaped at late times by the flows of gas driven by star formation and AGN processes. In this talk I will discuss how the shape and distribution of gas in superclusters, measured via the thermal Sunyaev-Zel’dovich (tSZ) effect in CMB data, can shed new light on these processes. I will present the method of constrained oriented stacking, initially developed on tSZ maps from ACT in tandem with DES photometric galaxy data, and discuss recent progress in using DESI spectroscopic galaxies to extract higher-precision tomography from the ACT maps. Interpretation of the signal is challenging as it requires modelling both the gas and galaxies; I will present both a halo-model approach and efforts to make direct comparisons with large-volume hydrodynamic simulations, reviewing the advantages and limitations of each.
 	<br>
 </details>
 
