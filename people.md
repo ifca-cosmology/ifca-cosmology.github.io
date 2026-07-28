@@ -91,9 +91,6 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
   <a href="{{site.url}}/chandranj"><img src="{{site.url}}/assets/imgs/People/chandranj.png" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/chandranj"><b>Jyothis Chandran </b></a>
   </section>
   <section class="card">
-  <a href="{{site.url}}/jangrap"><img src="{{site.url}}/assets/imgs/People/jangrap.jpg" style="width:170px;height:215px;"></a><br><a href="{{site.url}}/jangrap"><b>Pratibha Jangra </b></a>
-  </section>
-  <section class="card">
   <a href="{{site.url}}/martinezg"><img src="{{site.url}}/assets/imgs/People/martinezg.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/martinezg"><b>Guillermo Martínez-Somonte </b></a>
   </section>
   <section class="card">
