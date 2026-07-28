@@ -14,7 +14,12 @@ Astronomers with the [Hobbly-Eberly Telescope Dark Energy Experiment (HETDEX)](h
 
 You can find more information in the [official press release](https://hetdex.org/a-sea-of-light-hetdex-astronomers-reveal-hidden-structures-in-the-young-universe/) and its [adaptation to Spanish at IFCA's webpage](https://web.unican.es/noticias/Paginas/2026/03/IFCA-estudio-universo-joven.aspx).
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ### Cosmic Fireworks to Solve the Hubble Constant Tension
 19 February 2026
 

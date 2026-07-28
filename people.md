@@ -71,13 +71,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
   <a href="{{site.url}}/castellol"><img src="{{site.url}}/assets/imgs/People/castellol.png" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/castellol"><b> Laura Castelló </b></a>
   </section>
   <section class="card">
-  <a href="{{site.url}}/gimenoc"><img src="{{site.url}}/assets/imgs/People/gimenoc.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/gimenoc"><b>Christian Gimeno-Amo </b></a>
-  </section>
-  <section class="card">
   <a href="{{site.url}}/khanmi"><img src="{{site.url}}/assets/imgs/People/khanmi2.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/khanmi"><b>Md Ishaque Khan </b></a>
-  </section>
-  <section class="card">
-  <a href="{{site.url}}/longeardn"><img src="{{site.url}}/assets/imgs/People/longeardn.jpeg" style="width:215px;height:215px;"></a><br><a href="{{site.url}}/longeardn"><b>Nicolas Longeard </b></a>
   </section>
   <section class="card">
   <a href="{{site.url}}/palenciajm"><img src="{{site.url}}/assets/imgs/People/palenciajm.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/palenciajm"><b> José María Palencia </b></a>

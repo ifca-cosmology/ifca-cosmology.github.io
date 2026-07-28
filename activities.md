@@ -14,6 +14,9 @@ layout: default
 Specialized seminars organized by the cosmology group covering the research interests of the group. Given by invited speakers. Click on the talk title for abstract and further details.
 
 <details class="toggle">
+  <summary>Academic year 2025/2026</summary>
+
+<details class="toggle">
   <summary>11/03/2026, Probing Parity with Composite-Field Galaxy Correlators (Azadeh Moradinezhad, LapTh)</summary>
 	11:30, 11/03/2026 - Sala de Claustros
 	<br>
@@ -45,11 +48,14 @@ Specialized seminars organized by the cosmology group covering the research inte
 	<i>Abstract</i>: Today’s cosmic web of gas, galaxies, and dark matter was imprinted in the early universe, formed according to the balance of the cosmic components, and reshaped at late times by the flows of gas driven by star formation and AGN processes. In this talk I will discuss how the shape and distribution of gas in superclusters, measured via the thermal Sunyaev-Zel’dovich (tSZ) effect in CMB data, can shed new light on these processes. I will present the method of constrained oriented stacking, initially developed on tSZ maps from ACT in tandem with DES photometric galaxy data, and discuss recent progress in using DESI spectroscopic galaxies to extract higher-precision tomography from the ACT maps. Interpretation of the signal is challenging as it requires modelling both the gas and galaxies; I will present both a halo-model approach and efforts to make direct comparisons with large-volume hydrodynamic simulations, reviewing the advantages and limitations of each.
 	<br>
 </details>
-
+</details>
 
 
 # Master Seminars
 Seminars part of the [Master in Particle Physics and Physics of the Cosmos](https://masterphyparcos.ifca.es/) of the University of Cantabria and International University Menéndez Pelayo, coordinated by IFCA. Broader topics and treated at an introductory level. We only list here those related with cosmology. Click on the talk title for abstract and further details.
+
+<details class="toggle">
+  <summary>Academic year 2025/2026</summary>
 
 <details class="toggle">
   <summary>06/02/2026, Black hole echoes and boundary effective field theory (Subodh Patil, Leiden University)</summary>
@@ -68,11 +74,13 @@ Seminars part of the [Master in Particle Physics and Physics of the Cosmos](http
 
 
 <details class="toggle">
-  <summary>17/04/2026, TBD (Miguel Pérez Torres, IAA)</summary>
+  <summary>17/04/2026, From Jansky's Merry-go-round to the SKA, the mother of all radio telescopes (Miguel Pérez Torres, IAA)</summary>
  	 11:00, 17/04/2026 - Sala de Claustros
 	 <br>
-	<i>Abstract</i>: TBC
+	<i>Abstract</i>: Radio telescopes are the most ancient astronomical instruments after the optical telescope. From Jansky’s first detection of cosmic radio emission to today’s pathfinders, radio astronomy has grown into an essential tool to understand our universe: it probes non-thermal processes, magnetic fields, ionized gas, dust-obscured regions, and the time-variable Universe in a way that is uniquely complementary to optical/IR and high-energy views.
+In this talk I will give a historical account, with big jumps, of radio astronomy, starting with Jansky's Merry-go-round and ending with the Square Kilometre Array (SKA), which I like to call “the mother of all radio telescopes”. The SKA is effectively one observatory with two instruments: a low-frequency array in Australia (≈50–350 MHz) and a mid-frequency array in South Africa (≈350 MHz to many GHz). I will briefly recall how the original 1980s vision—an ultra-sensitive, square-kilometre collecting area to trace cosmic hydrogen across time—evolved into a transformational facility. To anchor the discussion, I will touch on a few flagship science themes enabled by this leap in sensitivity and survey speed: mapping neutral hydrogen to follow galaxy evolution, precision pulsar timing as a laboratory for gravity, and opening new discovery space for transients and variable sources across the radio sky.
 	<br>
+</details>
 </details>
 
 
@@ -97,9 +105,6 @@ Other activities and news at IFCA are advertised in the social media of IFCA.
 # Conferences
 Recent and upcoming conferences and workshops organized by members of the cosmology group. 
 
-- <h4>V ARRAKIHS Consortium Meeting</h4>
-18-20 May 2026, Santander: Conference Webpage TBD
-
 - <h4>New Frontiers in Cosmology</h4>
 10-14 August 2026, A Coruña:
 [Conference Webpage](https://www.fundacion.udc.es/cosmology%2Dconference%2Dcoruna%2D2026/index.asp?id=90&idioma=EN)
@@ -107,10 +112,15 @@ Recent and upcoming conferences and workshops organized by members of the cosmol
 - <h4>Gravitational Lensing in Galaxy Clusters in the JWST Era</h4>
 10-14 August, Santander: [Conference Webpage](https://sites.google.com/view/lensingsolareclipse26)
 
+- <h4>XII Meeting on Fundamental Cosmology</h4>
+9-11 November, Cordoba: [Conference Webpage](https://www.cosmo2026.com/)
+
 <details class="toggle">
   <summary> Click here to see a list of past conferences and workshops organized by members of the group </summary>
 	<h4>XI Meeting on Fundamental Cosmology</h4>
-18-20 November 2025, Santander <a href="https://www.fundacion.udc.es/cosmology%2Dconference%2Dcoruna%2D2026/index.asp?id=90&idioma=EN">Conference webpage</a>
+18-20 November 2025, Santander <a href="https://cosmo2025.unican.es/">Conference webpage</a>
+	<h4>V ARRAKIHS Consortium Meeting</h4>
+18-20 May 2026, Santander: Conference Webpage TBD
 </details>
 
 
