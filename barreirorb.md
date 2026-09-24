@@ -4,7 +4,7 @@ layout: default
 
 
 
-<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/barreirorb.png" style="width:224px;height:300px;"> <a href="https://">Personal website</a> <br> mail: barreiro(at)ifca.unican.es <br> Office: xxx</p>
+<p style="float: left; width: 30%; margin:40px"><img src="{{site.url}}/assets/imgs/People/barreirorb.png" style="width:224px;height:300px;"> <a href="https://">Personal website</a> <br> mail: barreiro(at)ifca.es <br> Office: 103</p>
 
 # R. Belén Barreiro
 
