@@ -67,6 +67,9 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
 
 <center>
 <div class="movegrid">
+ <section class="card">
+  <a href="{{site.url}}/camazona"><img src="{{site.url}}/assets/imgs/People/camazona.jpg" style="width:184px;height:215px;"></a><br><a href="{{site.url}}/camazona"><b> Alejandro Camazón Pinilla</b></a>
+  </section>
   <section class="card">
   <a href="{{site.url}}/castellol"><img src="{{site.url}}/assets/imgs/People/castellol.png" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/castellol"><b> Laura Castelló </b></a>
   </section>
@@ -74,7 +77,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
   <a href="{{site.url}}/khanmi"><img src="{{site.url}}/assets/imgs/People/khanmi2.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/khanmi"><b>Md Ishaque Khan </b></a>
   </section>
   <section class="card">
-  <a href="{{site.url}}/palenciajm"><img src="{{site.url}}/assets/imgs/People/palenciajm.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/palenciajm"><b> José María Palencia </b></a>
+  <a href="{{site.url}}/keith"><img src="{{site.url}}/assets/imgs/People/keith.jpg" style="width:150px;height:215px;"></a><br><a href="{{site.url}}/keith"><b> Sung Kei (Keith) Li </b></a>
   </section>
   <section class="card">
   <a href="{{site.url}}/scarcellaf"><img src="{{site.url}}/assets/imgs/People/scarcellaf.jpeg" style="width:170px;height:215px;"></a><br><a href="{{site.url}}/scarcellaf"><b>Francesca Scarcella </b></a>
@@ -91,7 +94,7 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
   <a href="{{site.url}}/chandranj"><img src="{{site.url}}/assets/imgs/People/chandranj.png" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/chandranj"><b>Jyothis Chandran </b></a>
   </section>
   <section class="card">
-  <a href="{{site.url}}/martinezg"><img src="{{site.url}}/assets/imgs/People/martinezg.jpg" style="width:200px;height:215px;"></a><br><a href="{{site.url}}/martinezg"><b>Guillermo Martínez-Somonte </b></a>
+  <a href="{{site.url}}/longo-minnolom"><img src="{{site.url}}/assets/imgs/People/longo-minnolom.jpg" style="width:161px;height:215px;"></a><br><a href="{{site.url}}/longo-minnolom"><b>Matteo Longo Minnolo </b></a>
   </section>
   <section class="card">
   <a href="{{site.url}}/pamuks"><img src="{{site.url}}/assets/imgs/People/pamuks.jpg" style="width:150px;height:215px;"></a><br><a href="{{site.url}}/pamuks"><b>Sefa Pamuk </b></a>
@@ -100,6 +103,9 @@ Here you can find the members of the Cosmology Group at IFCA. You can find furth
   <a href="{{site.url}}/pereza"><img src="{{site.url}}/assets/imgs/People/pereza.jpg" style="width:170px;height:215px;"></a><br><a href="{{site.url}}/pereza"><b>Abram Pérez Herrero</b></a>
   </section>
   <section class="card">
+  <a href="{{site.url}}/rameshk"><img src="{{site.url}}/assets/imgs/People/rameshk.jpeg" style="width:170px;height:215px;"> <br> </a><a href="{{site.url}}/rameshk"><b> Keerthana Ramesh </b></a>
+  </section>
+<section class="card">
   <a href="{{site.url}}/ruizgrandam"><img src="{{site.url}}/assets/imgs/People/ruizgrandam.jpg" style="width:170px;height:215px;"> <br> </a><a href="{{site.url}}/ruizgrandam"><b> Miguel Ruiz-Granda </b></a>
   </section>
   <section class="card">
